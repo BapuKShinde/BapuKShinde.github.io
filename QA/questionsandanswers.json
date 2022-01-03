@@ -1,17 +1,17 @@
 [
 {
   "name":"General Knowledge",
-  "ID":"1",
+  "id":1,
   "filename":"generalknowledge.txt"
 },
 {
   "name":"Logical",
-  "ID":"2",
+  "id":2,
   "filename":"logical.txt"
 },
 {
   "name":"Current Affairs",
-  "ID":"3",
+  "id":3,
   "filename":"currentaffairs.txt"
 }
 ]
