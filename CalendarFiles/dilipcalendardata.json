@@ -1238,8 +1238,8 @@
 			},
 			"42": {
 				"value": "५",
-				"is_holiday": "true",
-				"is_festival": "true",
+				"is_holiday": "false",
+				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
 				"special_day": ""
