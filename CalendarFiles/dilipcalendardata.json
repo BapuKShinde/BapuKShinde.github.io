@@ -564,7 +564,7 @@
 				"special_day": ""
 			},
 			"45": {
-				"value": "२९",
+				"value": "",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -613,7 +613,7 @@
 				"special_day": ""
 			},
 			"55": {
-				"value": "३०",
+				"value": "",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -662,7 +662,7 @@
 				"special_day": ""
 			},
 			"65": {
-				"value": "३१",
+				"value": "",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1611,7 +1611,7 @@
 				"special_day": ""
 			},
 			"45": {
-				"value": "",
+				"value": "३१",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2107,7 +2107,7 @@
 				"special_day": ""
 			},
 			"75": {
-				"value": "३१",
+				"value": "",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2178,7 +2178,7 @@
 				"special_day": ""
 			},
 			"21": {
-				"value": "",
+				"value": "३१",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2877,7 +2877,7 @@
 				"special_day": ""
 			},
 			"11": {
-				"value": "३१",
+				"value": "",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -3855,7 +3855,7 @@
 				"special_day": ""
 			},
 			"65": {
-				"value": "३१",
+				"value": "",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
