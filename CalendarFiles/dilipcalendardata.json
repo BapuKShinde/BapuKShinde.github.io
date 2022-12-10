@@ -5,6 +5,8 @@
 	"post_shake": "१९४५",
 	"is_leap_year": false,
 	"is_new-year-update-available": false,
+	"current_year_data_link": "https://bapukshinde.github.io/CalendarFiles/dilipcalendardata.json",
+	  "new_year_data_link": "https://bapukshinde.github.io/CalendarFiles/dilipcalendardata.json",
 	"new_year": "",
 	"new_year_data_link": "",
 	"Shake": ["मार्गशीर्ष-पौष शके-१९४३",
