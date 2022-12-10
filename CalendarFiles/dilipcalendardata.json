@@ -2092,8 +2092,8 @@
 			},
 			"73": {
 				"value": "१७",
-				"is_holiday": "true",
-				"is_festival": "true",
+				"is_holiday": "false",
+				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
 				"special_day": ""
@@ -2285,8 +2285,8 @@
 			},
 			"42": {
 				"value": "५",
-				"is_holiday": "true",
-				"is_festival": "true",
+				"is_holiday": "false",
+				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
 				"special_day": ""
@@ -2843,8 +2843,8 @@
 			},
 			"74": {
 				"value": "२६",
-				"is_holiday": "true",
-				"is_festival": "true",
+				"is_holiday": "false",
+				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
 				"special_day": "",
