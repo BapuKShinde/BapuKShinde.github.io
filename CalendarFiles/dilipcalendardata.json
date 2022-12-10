@@ -1,4192 +1,4266 @@
-
-
 {
-  "current_year": "२०२३",
-  "current_year_int": 2023,
-  "pre_shake": "१९४४",
-  "post_shake": "१९४५",
-   "is_leap_year": false,
-  "is_new-year-update-available": false,
-  "new_year": "",
-  "new_year_data_link": "",
-  "Shake": ["मार्गशीर्ष-पौष शके-१९४३",
-"पौष-माघ शके-१९४३",
-"माघ-फाल्गुन शके-१९४३",
-"फाल्गुन-चैत्र शके-१९४३-१९४४",
-    "वैशाख-ज्येष्ठ शके-१९४४",
-    "ज्येष्ठ-आषाढ शके-१९४४",
-    "आषाढ-श्रावण शके-१९४४",
-    "श्रावण-भाद्रपद शके-१९४४",
-    "भाद्रपद-आश्विन शके-१९४४",
-    "आश्विन-कार्त्तिक शके-१९४४",
-    "कार्त्तिक-मार्गशीर्ष शके-१९४४",
-    "मार्गशीर्ष-पौष शके-१९४४"
-
-  ],
-  "Data": [
-    {
-      "name": "जानेवारी",
-      "10": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "11": {
-        "value": "३०",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "12": {
-        "value": "२",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "A",
-        "special_day": ""
-      },
-      "13": {
-        "value": "९",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "गुरु गोविंद सिंह जयंती"
-      },
-      "14": {
-        "value": "१६",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "15": {
-        "value": "२३",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "सुभाषचंद्र बोस जयंती"
-      },
-
-      "20": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "21": {
-        "value": "३१",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "A",
-        "special_day": ""
-      },
-      "22": {
-        "value": "३",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "महिला मुक्तिदिन, सावित्रीबाई फुले जयंती"
-      },
-
-      "23": {
-        "value": "१०",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "24": {
-        "value": "१७",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "P",
-        "special_day": "राजमाता जिजाऊसाहेब भोसले जयंती (तिथीप्रमाणे)"
-      },
-      "25": {
-        "value": "२४",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-
-      "30": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "31": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "32": {
-        "value": "४",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "33": {
-        "value": "११",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "34": {
-        "value": "१८",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "35": {
-        "value": "२५",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-
-      "40": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "41": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "42": {
-        "value": "५",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "S",
-        "special_day": ""
-      },
-      "43": {
-        "value": "१२",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "E",
-        "special_day": ""
-      },
-      "44": {
-        "value": "१९",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "45": {
-        "value": "२६",
-        "is_holiday": "true",
-        "is_festival": "true",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "प्रजासत्ताक दिन"
-      },
-
-      "50": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "51": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "52": {
-        "value": "६",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "53": {
-        "value": "१३",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "54": {
-        "value": "२०",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "55": {
-        "value": "२७",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-
-      "60": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "61": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "62": {
-        "value": "७",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "63": {
-        "value": "१४",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "मकर संक्रांति"
-      },
-      "64": {
-        "value": "२१",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "S",
-        "special_day": "जागतिक योग दिवस"
-      },
-      "65": {
-        "value": "२८",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "E",
-        "special_day": ""
-      },
-
-      "70": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "71": {
-        "value": "१",
-        "is_holiday": "true",
-        "is_festival": "true",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "नूतन वर्षाभिनंदन"
-      },
-      "72": {
-        "value": "८",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "73": {
-        "value": "१५",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "74": {
-        "value": "२२",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "75": {
-        "value": "२९",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      }
-    },
-
-    {
-      "name": "फेब्रुवारी",
-      "10": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "11": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "12": {
-        "value": "६",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "13": {
-        "value": "१३",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "14": {
-        "value": "२०",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "15": {
-        "value": "२७",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "मराठी राजभाषा दिवस"
-      },
-
-      "20": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "21": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "22": {
-        "value": "७",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "23": {
-        "value": "१४",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "श्री विश्वकर्मा जयंती"
-      },
-      "24": {
-        "value": "२१",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "25": {
-        "value": "२८",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "राष्ट्रीय विज्ञान दिन"
-      },
-
-      "30": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "31": {
-        "value": "१",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "A",
-        "special_day": ""
-      },
-      "32": {
-        "value": "८",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "33": {
-        "value": "१५",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "P",
-        "special_day": ""
-      },
-      "34": {
-        "value": "२२",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "35": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-
-      "40": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "41": {
-        "value": "२",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "42": {
-        "value": "९",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "43": {
-        "value": "१६",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "गुरु रविदास जयंती"
-      },
-      "44": {
-        "value": "२३",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "संत गाडगेबाबा जयंती"
-      },
-      "45": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-
-      "50": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "51": {
-        "value": "३",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "52": {
-        "value": "१०",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "53": {
-        "value": "१७",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "वासुदेव बळवंत फडके पुण्यदिन"
-      },
-      "54": {
-        "value": "२४",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "जागतिक मुद्रण दिन"
-      },
-      "55": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-
-      "60": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "61": {
-        "value": "४",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "S",
-        "special_day": "श्री गणेश जयंती"
-      },
-      "62": {
-        "value": "११",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "E",
-        "special_day": ""
-      },
-      "63": {
-        "value": "१८",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "64": {
-        "value": "२५",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "श्री रामदास नवमी"
-      },
-      "65": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-
-      "70": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "71": {
-        "value": "५",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "72": {
-        "value": "१२",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "73": {
-        "value": "१९",
-        "is_holiday": "true",
-        "is_festival": "true",
-        "festivals": "",
-        "is_amavasya_pornima": "S",
-        "special_day": "छत्रपती शिवाजी महाराज जयंती"
-      },
-      "74": {
-        "value": "२६",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "E",
-        "special_day": "स्वातंत्र्यवीर सावरकर पुण्यतिथी"
-      },
-      "75": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      }
-
-    },
-
-    {
-      "name": "मार्च",
-      "10": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "11": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "12": {
-        "value": "६",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "S",
-        "special_day": "विनायक चतुर्थी"
-      },
-      "13": {
-        "value": "१३",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "E",
-        "special_day": ""
-      },
-      "14": {
-        "value": "२०",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "तुकाराम बीज"
-      },
-      "15": {
-        "value": "२७",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "E",
-        "special_day": ""
-      },
-
-      "20": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "21": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "S",
-        "special_day": ""
-      },
-      "22": {
-        "value": "७",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "23": {
-        "value": "१४",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "24": {
-        "value": "२१",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "छत्रपती शिवाजी महाराज जयंती (तिथीप्रमाणे)"
-      },
-      "25": {
-        "value": "२८",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "पापमोचनी एकादशी"
-      },
-
-      "30": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "31": {
-        "value": "१",
-        "is_holiday": "true",
-        "is_festival": "true",
-        "festivals": "",
-        "is_amavasya_pornima": "A",
-        "special_day": "महा शिवरात्री"
-      },
-      "32": {
-        "value": "८",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "जागतिक महिला दिन"
-      },
-      "33": {
-        "value": "१५",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "जागतिक ग्राहक दिन"
-      },
-      "34": {
-        "value": "२२",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "रंगपंचमी"
-      },
-      "35": {
-        "value": "२९",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-
-      "40": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "41": {
-        "value": "२",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "दर्श अमावस्या"
-      },
-      "42": {
-        "value": "९",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "43": {
-        "value": "१६",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "44": {
-        "value": "२३",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "श्री एकनाथ षष्ठी,जागतिक हवामान दिन,शहीद दिन"
-      },
-      "45": {
-        "value": "३०",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-
-      "50": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "51": {
-        "value": "३",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "52": {
-        "value": "१०",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "सावित्रीबाई फुले स्मृतिदिन,दुर्गाष्टमी"
-      },
-      "53": {
-        "value": "१७",
-        "is_holiday": "true",
-        "is_festival": "true",
-        "festivals": "",
-        "is_amavasya_pornima": "P",
-        "special_day": "होळी"
-      },
-      "54": {
-        "value": "२४",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "55": {
-        "value": "३१",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "A",
-        "special_day": ""
-      },
-
-      "60": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "61": {
-        "value": "४",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "राष्ट्रीय सुरक्षा दिन,रामकृष्ण जयंती"
-      },
-      "62": {
-        "value": "११",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "63": {
-        "value": "१८",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "धूलिवंदन"
-      },
-      "64": {
-        "value": "२५",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "65": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-
-      "70": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "71": {
-        "value": "५",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "S",
-        "special_day": ""
-      },
-      "72": {
-        "value": "१२",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "यशवंतराव चव्हाण जयंती"
-      },
-      "73": {
-        "value": "१९",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "74": {
-        "value": "२६",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "75": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      }
-
-    },
-
-    {
-
-      "name": "एप्रिल",
-      "10": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "11": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "12": {
-        "value": "३",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "13": {
-        "value": "१०",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "श्रीराम जयंती"
-      },
-      "14": {
-        "value": "१७",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "ईस्टर संडे"
-      },
-      "15": {
-        "value": "२४",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-
-      "20": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "21": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "22": {
-        "value": "४",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "S",
-        "special_day": ""
-      },
-      "23": {
-        "value": "११",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "महात्मा ज्योतिबा फुले जयंती"
-      },
-      "24": {
-        "value": "१८",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "25": {
-        "value": "२५",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-
-      "30": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "31": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "32": {
-        "value": "५",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "विनायक चतुर्थी"
-      },
-      "33": {
-        "value": "१२",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "E",
-        "special_day": ""
-      },
-      "34": {
-        "value": "१९",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "S",
-        "special_day": "अंगारक संकष्ट चतुर्थी"
-      },
-      "35": {
-        "value": "२६",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "E",
-        "special_day": "श्री वल्लभाचार्य जयंती"
-      },
-
-      "40": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "41": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "42": {
-        "value": "६",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "43": {
-        "value": "१३",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "भागवत एकादशी"
-      },
-      "44": {
-        "value": "२०",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "45": {
-        "value": "२७",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-
-      "50": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "51": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "52": {
-        "value": "७",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "जागतिक आरोग्य दिन"
-      },
-      "53": {
-        "value": "१४",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "डॉ.बाबासाहेब आंबेडकर जयंती,महावीर जयंती"
-      },
-      "54": {
-        "value": "२१",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "55": {
-        "value": "२८",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "संत गोरोबाकाका पुण्यतिथी"
-      },
-
-      "60": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "61": {
-        "value": "१",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "A",
-        "special_day": "धर्मवीर संभाजी महाराज पुण्यतिथी"
-      },
-      "62": {
-        "value": "८",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "63": {
-        "value": "१५",
-        "is_holiday": "true",
-        "is_festival": "true",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "गुड फ्रायडे,हनुमान जयंती"
-      },
-      "64": {
-        "value": "२२",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "65": {
-        "value": "२९",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-
-      "70": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "71": {
-        "value": "२",
-        "is_holiday": "true",
-        "is_festival": "true",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "गुढी पाडवा"
-      },
-      "72": {
-        "value": "९",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "73": {
-        "value": "१६",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "P",
-        "special_day": "हनुमान जयंती"
-      },
-      "74": {
-        "value": "२३",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "75": {
-        "value": "३०",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "A",
-        "special_day": "राष्ट्रसंत तुकडोजी महाराज जयंती"
-      }
-    },
-
-    {
-
-      "name": " मे ",
-      "10": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "11": {
-        "value": "१",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "महाराष्ट्र दिन, कामगार दिन"
-      },
-      "12": {
-        "value": "८",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "रवींद्रनाथ टागोर जयंती"
-      },
-      "13": {
-        "value": "१५",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "P",
-        "special_day": ""
-      },
-      "14": {
-        "value": "२२",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "15": {
-        "value": "२९",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "A",
-        "special_day": ""
-      },
-
-      "20": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "21": {
-        "value": "२",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "चंद्र दर्शन"
-      },
-      "22": {
-        "value": "९",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "महाराणा प्रताप जयंती"
-      },
-      "23": {
-        "value": "१६",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "P",
-        "special_day": "बुद्ध पौर्णिमा"
-      },
-      "24": {
-        "value": "२३",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "25": {
-        "value": "३०",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "A",
-        "special_day": "गोवा राज्यदिन"
-      },
-
-      "30": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "31": {
-        "value": "३",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "रमजान ईद,परशुराम जयंती,अक्षय तृतीया"
-      },
-      "32": {
-        "value": "१०",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "सीता नवमी"
-      },
-      "33": {
-        "value": "१७",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "नारद जयंती"
-      },
-      "34": {
-        "value": "२४",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "35": {
-        "value": "३१",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "अहिल्याबाई होळकर जयंती"
-      },
-
-      "40": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "41": {
-        "value": "४",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "S",
-        "special_day": "विनायक चतुर्थी"
-      },
-      "42": {
-        "value": "११",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "E",
-        "special_day": ""
-      },
-      "43": {
-        "value": "१८",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "S",
-        "special_day": ""
-      },
-      "44": {
-        "value": "२५",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "E",
-        "special_day": "संत मुक्ताबाई पुण्यतिथी"
-      },
-      "45": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-
-      "50": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "51": {
-        "value": "५",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "52": {
-        "value": "१२",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "E",
-        "special_day": "मोहिनी एकादशी"
-      },
-      "53": {
-        "value": "१९",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "S",
-        "special_day": "संकष्ट चतुर्थी"
-      },
-      "54": {
-        "value": "२६",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "E",
-        "special_day": "अपरा एकादशी"
-      },
-      "55": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-
-      "60": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "61": {
-        "value": "६",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "62": {
-        "value": "१३",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "63": {
-        "value": "२०",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "64": {
-        "value": "२७",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "65": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-
-      "70": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "71": {
-        "value": "७",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "72": {
-        "value": "१४",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "धर्मवीर संभाजी महाराज जयंती(तारखेप्रमाणे),श्री नृसिंह जयंती"
-      },
-      "73": {
-        "value": "२१",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "74": {
-        "value": "२८",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "स्वातंत्र्यवीर सावरकर जयंती"
-      },
-      "75": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      }
-    },
-
-    {
-
-      "name": "जून",
-      "10": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "11": {
-        "value": "",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "12": {
-        "value": "५",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "जागतिक पर्यावरण दिन "
-      },
-      "13": {
-        "value": "१२",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "14": {
-        "value": "१९",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "15": {
-        "value": "२६",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "छत्रपती शाहू महाराज जयंती"
-      },
-
-      "20": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "21": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "22": {
-        "value": "६",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "शिवराज्याभिषेक सोहळा"
-      },
-      "23": {
-        "value": "१३",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "P",
-        "special_day": ""
-      },
-      "24": {
-        "value": "२०",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "25": {
-        "value": "२७",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-
-      "30": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "31": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "32": {
-        "value": "७",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "झाशीची राणी लक्ष्मीबाई पुण्यतिथी"
-      },
-      "33": {
-        "value": "१४",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "वट पौर्णिमा,कबीर जयंती",
-        "is_amavasya_pornima": "P",
-        "special_day": ""
-      },
-      "34": {
-        "value": "२१",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "35": {
-        "value": "२८",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "A",
-        "special_day": ""
-      },
-
-      "40": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "41": {
-        "value": "१",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "42": {
-        "value": "८",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "43": {
-        "value": "१५",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "44": {
-        "value": "२२",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "राजमाता जिजाऊसाहेब भोसले पुण्यतिथी(तिथीप्रमाणे)"
-      },
-      "45": {
-        "value": "२९",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "A",
-        "special_day": ""
-      },
-
-      "50": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "51": {
-        "value": "२",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "महाराणा प्रताप जयंती (तिथीप्रमाणे)"
-      },
-      "52": {
-        "value": "९",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "53": {
-        "value": "१६",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "54": {
-        "value": "२३",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "E",
-        "special_day": ""
-      },
-      "55": {
-        "value": "३०",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-
-      "60": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "61": {
-        "value": "३",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "S",
-        "special_day": "विनायक चतुर्थी"
-      },
-      "62": {
-        "value": "१०",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "E",
-        "special_day": ""
-      },
-      "63": {
-        "value": "१७",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "S",
-        "special_day": "संकष्टी चतुर्थी,गोपाळ गणेशग आगरकर पुण्यतिथी"
-      },
-      "64": {
-        "value": "२४",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "65": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-
-      "70": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "71": {
-        "value": "४",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "72": {
-        "value": "११",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "धर्मवीर संभाजी महाराज जयंती(तिथीप्रमाणे)"
-      },
-      "73": {
-        "value": "१८",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "74": {
-        "value": "२५",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "75": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      }
-    },
-
-    {
-
-      "name": "जुलै",
-      "10": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "11": {
-        "value": "३१",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "12": {
-        "value": "३",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "S",
-        "special_day": "विनायक चतुर्थी"
-      },
-      "13": {
-        "value": "१०",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "E",
-        "special_day": "देवशयनी आषाढी एकादशी,बकरी ईद"
-      },
-      "14": {
-        "value": "१७",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "15": {
-        "value": "२४",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "E",
-        "special_day": "कामिका एकादशी"
-      },
-
-      "20": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "21": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "22": {
-        "value": "४",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "23": {
-        "value": "११",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "24": {
-        "value": "१८",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "अण्णाभाऊ साठे स्मृतिदिन"
-      },
-      "25": {
-        "value": "२५",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-
-      "30": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "31": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "32": {
-        "value": "५",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "33": {
-        "value": "१२",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "34": {
-        "value": "१९",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "35": {
-        "value": "२६",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "संत नामदेव महाराज पुण्यतिथी"
-      },
-
-      "40": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "41": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "42": {
-        "value": "६",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "43": {
-        "value": "१३",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "P",
-        "special_day": "गुरु पौर्णिमा"
-      },
-      "44": {
-        "value": "२०",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "45": {
-        "value": "२७",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "A",
-        "special_day": "संत सावता माळी पुण्यतिथी"
-      },
-
-      "50": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "51": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "52": {
-        "value": "७",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "53": {
-        "value": "१४",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "बाजीप्रभू देशपांडे पुण्यतिथी"
-      },
-      "54": {
-        "value": "२१",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "55": {
-        "value": "२८",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "A",
-        "special_day": "दर्श अमावस्या"
-      },
-
-      "60": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "61": {
-        "value": "१",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "62": {
-        "value": "८",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "63": {
-        "value": "१५",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "64": {
-        "value": "२२",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "65": {
-        "value": "२९",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "श्रावण मासआरंभ"
-      },
-
-      "70": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "71": {
-        "value": "२",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "S",
-        "special_day": ""
-      },
-      "72": {
-        "value": "९",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "E",
-        "special_day": ""
-      },
-      "73": {
-        "value": "१६",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "S",
-        "special_day": ""
-      },
-      "74": {
-        "value": "२३",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "E",
-        "special_day": "लोकमान्य बालगंगाधर टिळक जयंती"
-      },
-      "75": {
-        "value": "३०",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      }
-    },
-
-    {
-
-      "name": "ऑगस्ट",
-      "10": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "11": {
-        "value": "",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "12": {
-        "value": "७",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "E",
-        "special_day": ""
-      },
-      "13": {
-        "value": "१४",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "S",
-        "special_day": ""
-      },
-      "14": {
-        "value": "२१",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "15": {
-        "value": "२८",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-
-      "20": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "21": {
-        "value": "१",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "S",
-        "special_day": "लोकमान्य बालगंगाधर टिळक पुण्यतिथी"
-      },
-      "22": {
-        "value": "८",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "23": {
-        "value": "१५",
-        "is_holiday": "true",
-        "is_festival": "true",
-        "festivals": "",
-        "is_amavasya_pornima": "S",
-        "special_day": "स्वातंत्र्य दिन"
-      },
-      "24": {
-        "value": "२२",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "E",
-        "special_day": ""
-      },
-      "25": {
-        "value": "२९",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-
-      "30": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "31": {
-        "value": "२",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "नागपंचमी"
-      },
-      "32": {
-        "value": "९",
-        "is_holiday": "true",
-        "is_festival": "true",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "मोहरम"
-      },
-      "33": {
-        "value": "१६",
-        "is_holiday": "true",
-        "is_festival": "true",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "पारशी नूतन वर्ष"
-      },
-      "34": {
-        "value": "२३",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "E",
-        "special_day": ""
-      },
-      "35": {
-        "value": "३०",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "S",
-        "special_day": "हरतालिका तृतीया"
-      },
-
-      "40": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "41": {
-        "value": "३",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "42": {
-        "value": "१०",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "43": {
-        "value": "१७",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "44": {
-        "value": "२४",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "45": {
-        "value": "३१",
-        "is_holiday": "true",
-        "is_festival": "true",
-        "festivals": "",
-        "is_amavasya_pornima": "G",
-        "special_day": "श्री गणेश चतुर्थी "
-      },
-
-      "50": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "51": {
-        "value": "४",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "52": {
-        "value": "११",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "P",
-        "special_day": "नारळी पौर्णिमा,रक्षाबंधन"
-      },
-      "53": {
-        "value": "१८",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "श्रीकृष्ण जयंती"
-      },
-      "54": {
-        "value": "२५",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "55": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-
-      "60": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "61": {
-        "value": "५",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "62": {
-        "value": "१२",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "P",
-        "special_day": "श्रावण पौर्णिमा"
-      },
-      "63": {
-        "value": "१९",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "गोपाळ काला"
-      },
-      "64": {
-        "value": "२६",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "A",
-        "special_day": "पोळा"
-      },
-      "65": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-
-      "70": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "71": {
-        "value": "६",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "72": {
-        "value": "१३",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "अहिल्याबाई होळकर पुण्यतिथी"
-      },
-      "73": {
-        "value": "२०",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "74": {
-        "value": "२७",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "A",
-        "special_day": "श्रावण अमावस्या"
-      },
-      "75": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      }
-    },
-
-    {
-
-      "name": "सप्टेंबर",
-      "10": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "11": {
-        "value": "",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "12": {
-        "value": "४",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "दुर्गाष्टमी"
-      },
-      "13": {
-        "value": "११",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "14": {
-        "value": "१८",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "15": {
-        "value": "२५",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "A",
-        "special_day": ""
-      },
-
-      "20": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "21": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "22": {
-        "value": "५",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "शिक्षक दिन,जेष्ठ गौरी विसर्जन"
-      },
-      "23": {
-        "value": "१२",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "24": {
-        "value": "१९",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "25": {
-        "value": "२६",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "घटस्थापना"
-      },
-
-      "30": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "31": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "32": {
-        "value": "६",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "33": {
-        "value": "१३",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "S",
-        "special_day": "अंगारक संकष्टी चतुर्थी"
-      },
-      "34": {
-        "value": "२०",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "35": {
-        "value": "२७",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-
-      "40": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "41": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "42": {
-        "value": "७",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "भागवत एकादशी"
-      },
-      "43": {
-        "value": "१४",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "44": {
-        "value": "२१",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "E",
-        "special_day": ""
-      },
-      "45": {
-        "value": "२८",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-
-      "50": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "51": {
-        "value": "१",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "ऋषी पंचमी"
-      },
-      "52": {
-        "value": "८",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "53": {
-        "value": "१५",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "54": {
-        "value": "२२",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "55": {
-        "value": "२९",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-
-      "60": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "61": {
-        "value": "२",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "62": {
-        "value": "९",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "अनंत चतुर्दशी"
-      },
-      "63": {
-        "value": "१६",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "64": {
-        "value": "२३",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "65": {
-        "value": "३०",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-
-      "70": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "71": {
-        "value": "३",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "72": {
-        "value": "१०",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "P",
-        "special_day": ""
-      },
-      "73": {
-        "value": "१७",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "74": {
-        "value": "२४",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "75": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      }
-    },
-
-    {
-
-      "name": "ऑक्टोबर",
-      "10": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "11": {
-        "value": "३०",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "12": {
-        "value": "२",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "महात्मा गांधी जयंती,लालबहादूर शास्त्री जयंती"
-      },
-      "13": {
-        "value": "९",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "P",
-        "special_day": "कोजागिरी पौर्णिमा"
-      },
-      "14": {
-        "value": "१६",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "15": {
-        "value": "२३",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "धंतृयोदशी"
-      },
-
-      "20": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "21": {
-        "value": "३१",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "सरदार पटेल जयंती"
-      },
-      "22": {
-        "value": "३",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "23": {
-        "value": "१०",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "24": {
-        "value": "१७",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "25": {
-        "value": "२४",
-        "is_holiday": "true",
-        "is_festival": "true",
-        "festivals": "",
-        "is_amavasya_pornima": "A",
-        "special_day": "नरक चतुर्दशी, लक्ष्मी पूजन"
-      },
-
-      "30": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "31": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "32": {
-        "value": "४",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "महानवमी"
-      },
-      "33": {
-        "value": "११",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "34": {
-        "value": "१८",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "35": {
-        "value": "२५",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "A",
-        "special_day": "दर्श अमावस्या"
-      },
-
-      "40": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "41": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "42": {
-        "value": "५",
-        "is_holiday": "true",
-        "is_festival": "true",
-        "festivals": "",
-        "is_amavasya_pornima": "E",
-        "special_day": "दशहरा"
-      },
-      "43": {
-        "value": "१२",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "44": {
-        "value": "१९",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "45": {
-        "value": "२६",
-        "is_holiday": "true",
-        "is_festival": "true",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "दीपावली पाडवा,भाऊबीज"
-      },
-
-      "50": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "51": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "52": {
-        "value": "६",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "एकादशी"
-      },
-      "53": {
-        "value": "१३",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "S",
-        "special_day": "संकष्ट चतुर्थी"
-      },
-      "54": {
-        "value": "२०",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "E",
-        "special_day": ""
-      },
-      "55": {
-        "value": "२७",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-
-      "60": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "61": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "62": {
-        "value": "७",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "63": {
-        "value": "१४",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "राष्ट्रसंत तुकडोजी महाराज पुण्यतिथी"
-      },
-      "64": {
-        "value": "२१",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "E",
-        "special_day": "रमा एकादशी"
-      },
-      "65": {
-        "value": "२८",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "S",
-        "special_day": "विनायक चतुर्थी"
-      },
-
-      "70": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "71": {
-        "value": "१",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "72": {
-        "value": "८",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "73": {
-        "value": "१५",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "जागतिक अंध दिन"
-      },
-      "74": {
-        "value": "२२",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "75": {
-        "value": "२९",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "पांडव पंचमी"
-      }
-    },
-
-    {
-      "name": "नोव्हेंबर",
-      "10": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "11": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "12": {
-        "value": "६",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "श्री गोरक्षनाथ प्रकट दिन"
-      },
-      "13": {
-        "value": "१३",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "14": {
-        "value": "२०",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "E",
-        "special_day": ""
-      },
-      "15": {
-        "value": "२७",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "विनायक चतुर्थी"
-      },
-
-      "20": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "21": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "22": {
-        "value": "७",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "P",
-        "special_day": ""
-      },
-      "23": {
-        "value": "१४",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "24": {
-        "value": "२१",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "25": {
-        "value": "२८",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "महात्मा ज्योतिबा फुले पुण्यतिथी"
-      },
-
-      "30": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "31": {
-        "value": "१",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "दुर्गाष्टमी"
-      },
-      "32": {
-        "value": "८",
-        "is_holiday": "true",
-        "is_festival": "true",
-        "festivals": "",
-        "is_amavasya_pornima": "P",
-        "special_day": "गुरुनानक जयंती"
-      },
-      "33": {
-        "value": "१५",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "34": {
-        "value": "२२",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "35": {
-        "value": "२९",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-
-      "40": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "41": {
-        "value": "२",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "42": {
-        "value": "९",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "43": {
-        "value": "१६",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "कालभैरव जयंती,काळाष्ठमी"
-      },
-      "44": {
-        "value": "२३",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "A",
-        "special_day": "दर्श अमावस्या"
-      },
-      "45": {
-        "value": "३०",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "संत रोहिदास पुण्यतिथी"
-      },
-
-      "50": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "51": {
-        "value": "३",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "E",
-        "special_day": ""
-      },
-      "52": {
-        "value": "१०",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "53": {
-        "value": "१७",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "लाला लजपतराय पुण्यतिथी"
-      },
-      "54": {
-        "value": "२४",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "55": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-
-      "60": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "61": {
-        "value": "४",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "E",
-        "special_day": ""
-      },
-      "62": {
-        "value": "११",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "S",
-        "special_day": ""
-      },
-      "63": {
-        "value": "१८",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "64": {
-        "value": "२५",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "चंद्रदर्शन"
-      },
-      "65": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-
-      "70": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "71": {
-        "value": "५",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "72": {
-        "value": "१२",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "S",
-        "special_day": "संकष्ठी चतुर्थी"
-      },
-      "73": {
-        "value": "१९",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "E",
-        "special_day": ""
-      },
-      "74": {
-        "value": "२६",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "S",
-        "special_day": ""
-      },
-      "75": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      }
-
-    },
-
-    {
-
-      "name": "डिसेंबर",
-      "10": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "11": {
-        "value": "",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "12": {
-        "value": "४",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "E",
-        "special_day": "भागवत एकादशी"
-      },
-      "13": {
-        "value": "११",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "S",
-        "special_day": "संकष्ट चतुर्थी"
-      },
-      "14": {
-        "value": "१८",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "15": {
-        "value": "२५",
-        "is_holiday": "true",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "नाताळ"
-      },
-
-      "20": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "21": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "22": {
-        "value": "५",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "23": {
-        "value": "१२",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "24": {
-        "value": "१९",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "E",
-        "special_day": ""
-      },
-      "25": {
-        "value": "२६",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "S",
-        "special_day": ""
-      },
-
-      "30": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "31": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "32": {
-        "value": "६",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "डॉ.बाबासाहेब आंबेडकर महापरिनिर्वाण दिन"
-      },
-      "33": {
-        "value": "१३",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "34": {
-        "value": "२०",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "संत गाडगेबाबा पुण्यतिथी"
-      },
-      "35": {
-        "value": "२७",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-
-      "40": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "41": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "42": {
-        "value": "७",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "P",
-        "special_day": "दत्त जयंती"
-      },
-      "43": {
-        "value": "१४",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "44": {
-        "value": "२१",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "45": {
-        "value": "२८",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-
-      "50": {
-        "value": "",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "51": {
-        "value": "१",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "52": {
-        "value": "८",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "P",
-        "special_day": ""
-      },
-      "53": {
-        "value": "१५",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "54": {
-        "value": "२२",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "A",
-        "special_day": ""
-      },
-      "55": {
-        "value": "२९",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": "गुरु गोविंदसिंह जयंती"
-      },
-
-      "60": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "61": {
-        "value": "२",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "62": {
-        "value": "९",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "63": {
-        "value": "१६",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "64": {
-        "value": "२३",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "A",
-        "special_day": "दर्श अमावस्या"
-      },
-      "65": {
-        "value": "३०",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-
-      "70": {
-        "value": "",
-        "is_holiday": "",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "71": {
-        "value": "३",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "E",
-        "special_day": "गीता जयंती"
-      },
-      "72": {
-        "value": "१०",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": ""
-      },
-      "73": {
-        "value": "१७",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      },
-      "74": {
-        "value": "२४",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "false",
-        "special_day": "भारतीय ग्राहक दिन"
-      },
-      "75": {
-        "value": "३१",
-        "is_holiday": "false",
-        "is_festival": "false",
-        "festivals": "",
-        "is_amavasya_pornima": "D",
-        "special_day": ""
-      }
-    }
-
-  ]
+	"current_year": "२०२३",
+	"current_year_int": 2023,
+	"pre_shake": "१९४४",
+	"post_shake": "१९४५",
+	"is_leap_year": false,
+	"is_new-year-update-available": false,
+	"new_year": "",
+	"new_year_data_link": "",
+	"Shake": ["मार्गशीर्ष-पौष शके-१९४३",
+		"पौष-माघ शके-१९४३",
+		"माघ-फाल्गुन शके-१९४३",
+		"फाल्गुन-चैत्र शके-१९४३-१९४४",
+		"वैशाख-ज्येष्ठ शके-१९४४",
+		"ज्येष्ठ-आषाढ शके-१९४४",
+		"आषाढ-श्रावण शके-१९४४",
+		"श्रावण-भाद्रपद शके-१९४४",
+		"भाद्रपद-आश्विन शके-१९४४",
+		"आश्विन-कार्त्तिक शके-१९४४",
+		"कार्त्तिक-मार्गशीर्ष शके-१९४४",
+		"मार्गशीर्ष-पौष शके-१९४४"
+
+	],
+	"Data": [
+
+		{
+
+			"Sunday": "",
+			"name": "जानेवारी",
+			"start": "sunday - 1",
+			"10": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"11": {
+				"value": "१",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"12": {
+				"value": "८",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"13": {
+				"value": "१५",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"14": {
+				"value": "२२",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"15": {
+				"value": "२९",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"20": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"21": {
+				"value": "२",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"22": {
+				"value": "९",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"23": {
+				"value": "१६",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"24": {
+				"value": "२३",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"25": {
+				"value": "३०",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"30": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"31": {
+				"value": "३",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"32": {
+				"value": "१०",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"33": {
+				"value": "१७",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"34": {
+				"value": "२४",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"35": {
+				"value": "३१",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"40": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"41": {
+				"value": "४",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"42": {
+				"value": "११",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"43": {
+				"value": "१८",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"44": {
+				"value": "२५",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"45": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"50": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"51": {
+				"value": "५",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"52": {
+				"value": "१२",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"53": {
+				"value": "१९",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"54": {
+				"value": "२६",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"55": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"60": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"61": {
+				"value": "६",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"62": {
+				"value": "१३",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"63": {
+				"value": "२०",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"64": {
+				"value": "२७",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"65": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"70": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"71": {
+				"value": "७",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"72": {
+				"value": "१४",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"73": {
+				"value": "२१",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"74": {
+				"value": "२८",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"75": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			}
+		},
+
+		{
+
+			"name": " फेब्रुवारी ",
+			"start": "wednesday - 4",
+			"10": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"11": {
+				"value": "",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"12": {
+				"value": "५",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"13": {
+				"value": "१२",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"14": {
+				"value": "१९",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"15": {
+				"value": "२६",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"20": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"21": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"22": {
+				"value": "६",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"23": {
+				"value": "१३",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"24": {
+				"value": "२०",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"25": {
+				"value": "२७",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"30": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"31": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"32": {
+				"value": "७",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"33": {
+				"value": "१४",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"34": {
+				"value": "२१",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"35": {
+				"value": "२८",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"40": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"41": {
+				"value": "१",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"42": {
+				"value": "८",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"43": {
+				"value": "१५",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"44": {
+				"value": "२२",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"45": {
+				"value": "२९",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"50": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"51": {
+				"value": "२",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"52": {
+				"value": "९",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"53": {
+				"value": "१६",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"54": {
+				"value": "२३",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"55": {
+				"value": "३०",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"60": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"61": {
+				"value": "३",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"62": {
+				"value": "१०",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"63": {
+				"value": "१७",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"64": {
+				"value": "२४",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"65": {
+				"value": "३१",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"70": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"71": {
+				"value": "४",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"72": {
+				"value": "११",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"73": {
+				"value": "१८",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"74": {
+				"value": "२५",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"75": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			}
+		},
+
+
+		{
+
+			"name": " मार्च ",
+			"start": "wednesday - 4",
+			"10": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"11": {
+				"value": "",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"12": {
+				"value": "५",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"13": {
+				"value": "१२",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"14": {
+				"value": "१९",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"15": {
+				"value": "२६",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"20": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"21": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"22": {
+				"value": "६",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"23": {
+				"value": "१३",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"24": {
+				"value": "२०",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"25": {
+				"value": "२७",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"30": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"31": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"32": {
+				"value": "७",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"33": {
+				"value": "१४",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"34": {
+				"value": "२१",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"35": {
+				"value": "२८",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"40": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"41": {
+				"value": "१",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"42": {
+				"value": "८",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"43": {
+				"value": "१५",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"44": {
+				"value": "२२",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"45": {
+				"value": "२९",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"50": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"51": {
+				"value": "२",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"52": {
+				"value": "९",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"53": {
+				"value": "१६",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"54": {
+				"value": "२३",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"55": {
+				"value": "३०",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"60": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"61": {
+				"value": "३",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"62": {
+				"value": "१०",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"63": {
+				"value": "१७",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"64": {
+				"value": "२४",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"65": {
+				"value": "३१",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"70": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"71": {
+				"value": "४",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"72": {
+				"value": "११",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"73": {
+				"value": "१८",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"74": {
+				"value": "२५",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"75": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			}
+		},
+
+		{
+
+			"name": "एप्रिल",
+			"start": "saturday - 7",
+			"10": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"11": {
+				"value": "३०",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"12": {
+				"value": "२",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"13": {
+				"value": "९",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"14": {
+				"value": "१६",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"15": {
+				"value": "२३",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"20": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"21": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"22": {
+				"value": "३",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"23": {
+				"value": "१०",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"24": {
+				"value": "१७",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"25": {
+				"value": "२४",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"30": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"31": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"32": {
+				"value": "४",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"33": {
+				"value": "११",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"34": {
+				"value": "१८",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"35": {
+				"value": "२५",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"40": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"41": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"42": {
+				"value": "५",
+				"is_holiday": "true",
+				"is_festival": "true",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"43": {
+				"value": "१२",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"44": {
+				"value": "१९",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"45": {
+				"value": "२६",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"50": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"51": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"52": {
+				"value": "६",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"53": {
+				"value": "१३",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"54": {
+				"value": "२०",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"55": {
+				"value": "२७",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"60": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"61": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"62": {
+				"value": "७",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"63": {
+				"value": "१४",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"64": {
+				"value": "२१",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"65": {
+				"value": "२८",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"70": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"71": {
+				"value": "१",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"72": {
+				"value": "८",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"73": {
+				"value": "१५",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"74": {
+				"value": "२२",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"75": {
+				"value": "२९",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			}
+		},
+
+
+		{
+
+
+			"name": "मे",
+			"start": "monday-2",
+			"10": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"11": {
+				"value": "",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"12": {
+				"value": "७",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"13": {
+				"value": "१४",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"14": {
+				"value": "२१",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"15": {
+				"value": "२८",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"20": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"21": {
+				"value": "१",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"22": {
+				"value": "८",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"23": {
+				"value": "१५",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"24": {
+				"value": "२२",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"25": {
+				"value": "२९",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"30": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"31": {
+				"value": "२",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"32": {
+				"value": "९",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"33": {
+				"value": "१६",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"34": {
+				"value": "२३",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"35": {
+				"value": "३०",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"40": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"41": {
+				"value": "३",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"42": {
+				"value": "१०",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"43": {
+				"value": "१७",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"44": {
+				"value": "२४",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"45": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"50": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"51": {
+				"value": "४",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"52": {
+				"value": "११",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"53": {
+				"value": "१८",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"54": {
+				"value": "२५",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"55": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"60": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"61": {
+				"value": "५",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"62": {
+				"value": "१२",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"63": {
+				"value": "१९",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"64": {
+				"value": "२६",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"65": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"70": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"71": {
+				"value": "६",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"72": {
+				"value": "१३",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"73": {
+				"value": "२०",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"74": {
+				"value": "२७",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"75": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			}
+		},
+
+
+		{
+
+			"name": "जून",
+			"start": "thursday - 5",
+			"10": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"11": {
+				"value": "",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"12": {
+				"value": "४",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"13": {
+				"value": "११",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"14": {
+				"value": "१८",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"15": {
+				"value": "२५",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"20": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"21": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"22": {
+				"value": "५",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"23": {
+				"value": "१२",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"24": {
+				"value": "१९",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"25": {
+				"value": "२६",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"30": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"31": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"32": {
+				"value": "६",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"33": {
+				"value": "१३",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"34": {
+				"value": "२०",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"35": {
+				"value": "२७",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"40": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"41": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"42": {
+				"value": "७",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"43": {
+				"value": "१४",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"44": {
+				"value": "२१",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"45": {
+				"value": "२८",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"50": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"51": {
+				"value": "१",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"52": {
+				"value": "८",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"53": {
+				"value": "१५",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"54": {
+				"value": "२२",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"55": {
+				"value": "२९",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"60": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"61": {
+				"value": "२",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"62": {
+				"value": "९",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"63": {
+				"value": "१६",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"64": {
+				"value": "२३",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"65": {
+				"value": "३०",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"70": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"71": {
+				"value": "३",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"72": {
+				"value": "१०",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"73": {
+				"value": "१७",
+				"is_holiday": "true",
+				"is_festival": "true",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"74": {
+				"value": "२४",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"75": {
+				"value": "३१",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			}
+		},
+
+		{
+
+			"name": "जुलै",
+			"start": "saturday - 7",
+			"10": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"11": {
+				"value": "३०",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"12": {
+				"value": "२",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"13": {
+				"value": "९",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"14": {
+				"value": "१६",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"15": {
+				"value": "२३",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"20": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"21": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"22": {
+				"value": "३",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"23": {
+				"value": "१०",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"24": {
+				"value": "१७",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"25": {
+				"value": "२४",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"30": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"31": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"32": {
+				"value": "४",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"33": {
+				"value": "११",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"34": {
+				"value": "१८",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"35": {
+				"value": "२५",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"40": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"41": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"42": {
+				"value": "५",
+				"is_holiday": "true",
+				"is_festival": "true",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"43": {
+				"value": "१२",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"44": {
+				"value": "१९",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"45": {
+				"value": "२६",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"50": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"51": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"52": {
+				"value": "६",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"53": {
+				"value": "१३",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"54": {
+				"value": "२०",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"55": {
+				"value": "२७",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"60": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"61": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"62": {
+				"value": "७",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"63": {
+				"value": "१४",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"64": {
+				"value": "२१",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"65": {
+				"value": "२८",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"70": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"71": {
+				"value": "१",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"72": {
+				"value": "८",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"73": {
+				"value": "१५",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"74": {
+				"value": "२२",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"75": {
+				"value": "२९",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			}
+		},
+
+
+		{
+
+
+
+			"name": "ऑगस्ट",
+			"start": "tuesday - 3",
+			"10": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+			"11": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+			"12": {
+				"value": "६",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+			"13": {
+				"value": "१३",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+			"14": {
+				"value": "२०",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+			"15": {
+				"value": "२७",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+
+			"20": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+			"21": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+			"22": {
+				"value": "७",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+			"23": {
+				"value": "१४",
+				"is_holiday": "false",
+				"is_festival": "true",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+			"24": {
+				"value": "२१",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+			"25": {
+				"value": "२८",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+
+			"30": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+			"31": {
+				"value": "१",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+
+
+			},
+			"32": {
+				"value": "८",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+			"33": {
+				"value": "१५",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+			"34": {
+				"value": "२२",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+			"35": {
+				"value": "२९",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+
+			"40": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+			"41": {
+				"value": "२",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+
+			},
+			"42": {
+				"value": "९",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+			"43": {
+				"value": "१६",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+			"44": {
+				"value": "२३",
+				"is_holiday": "false",
+				"is_festival": "true",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+			"45": {
+				"value": "३०",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+
+			"50": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+			"51": {
+				"value": "३",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+			"52": {
+				"value": "१०",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+			"53": {
+				"value": "१७",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+			"54": {
+				"value": "२४",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+			"55": {
+				"value": "३१",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+
+			"60": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+			"61": {
+				"value": "४",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+			"62": {
+				"value": "११",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+			"63": {
+				"value": "१८",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+			"64": {
+				"value": "२५",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+			"65": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+
+			"70": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+			"71": {
+				"value": "५",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+
+			},
+			"72": {
+				"value": "१२",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+			"73": {
+				"value": "१९",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			},
+			"74": {
+				"value": "२६",
+				"is_holiday": "true",
+				"is_festival": "true",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+
+			},
+			"75": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": "",
+				"other": ""
+			}
+
+		},
+
+
+		{
+
+			"name": "सप्टेंबर",
+			"start": "friday - 6",
+			"10": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"11": {
+				"value": "३१",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"12": {
+				"value": "३",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"13": {
+				"value": "१०",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"14": {
+				"value": "१७",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"15": {
+				"value": "२४",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"20": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"21": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"22": {
+				"value": "४",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"23": {
+				"value": "११",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"24": {
+				"value": "१८",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"25": {
+				"value": "२५",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"30": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"31": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"32": {
+				"value": "५",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"33": {
+				"value": "१२",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"34": {
+				"value": "१९",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"35": {
+				"value": "२६",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"40": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"41": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"42": {
+				"value": "६",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"43": {
+				"value": "१३",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"44": {
+				"value": "२०",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"45": {
+				"value": "२७",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"50": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"51": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"52": {
+				"value": "७",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"53": {
+				"value": "१४",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"54": {
+				"value": "२१",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"55": {
+				"value": "२८",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"60": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"61": {
+				"value": "१",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"62": {
+				"value": "८",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"63": {
+				"value": "१५",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"64": {
+				"value": "२२",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"65": {
+				"value": "२९",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"70": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"71": {
+				"value": "२",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"72": {
+				"value": "९",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"73": {
+				"value": "१६",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"74": {
+				"value": "२३",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"75": {
+				"value": "३०",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			}
+		},
+
+
+
+		{
+
+			"Sunday": "",
+			"name": "ऑक्टोबर",
+			"start": "sunday - 1",
+			"10": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"11": {
+				"value": "१",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"12": {
+				"value": "८",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"13": {
+				"value": "१५",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"14": {
+				"value": "२२",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"15": {
+				"value": "२९",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"20": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"21": {
+				"value": "२",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"22": {
+				"value": "९",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"23": {
+				"value": "१६",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"24": {
+				"value": "२३",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"25": {
+				"value": "३०",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"30": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"31": {
+				"value": "३",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"32": {
+				"value": "१०",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"33": {
+				"value": "१७",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"34": {
+				"value": "२४",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"35": {
+				"value": "३१",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"40": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"41": {
+				"value": "४",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"42": {
+				"value": "११",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"43": {
+				"value": "१८",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"44": {
+				"value": "२५",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"45": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"50": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"51": {
+				"value": "५",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"52": {
+				"value": "१२",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"53": {
+				"value": "१९",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"54": {
+				"value": "२६",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"55": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"60": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"61": {
+				"value": "६",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"62": {
+				"value": "१३",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"63": {
+				"value": "२०",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"64": {
+				"value": "२७",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"65": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"70": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"71": {
+				"value": "७",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"72": {
+				"value": "१४",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"73": {
+				"value": "२१",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"74": {
+				"value": "२८",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"75": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			}
+		},
+
+
+
+		{
+
+			"name": " नोव्हेंबर ",
+			"start": "wednesday - 4",
+			"10": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"11": {
+				"value": "",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"12": {
+				"value": "५",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"13": {
+				"value": "१२",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"14": {
+				"value": "१९",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"15": {
+				"value": "२६",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"20": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"21": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"22": {
+				"value": "६",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"23": {
+				"value": "१३",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"24": {
+				"value": "२०",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"25": {
+				"value": "२७",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"30": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"31": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"32": {
+				"value": "७",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"33": {
+				"value": "१४",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"34": {
+				"value": "२१",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"35": {
+				"value": "२८",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"40": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"41": {
+				"value": "१",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"42": {
+				"value": "८",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"43": {
+				"value": "१५",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"44": {
+				"value": "२२",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"45": {
+				"value": "२९",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"50": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"51": {
+				"value": "२",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"52": {
+				"value": "९",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"53": {
+				"value": "१६",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"54": {
+				"value": "२३",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"55": {
+				"value": "३०",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"60": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"61": {
+				"value": "३",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"62": {
+				"value": "१०",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"63": {
+				"value": "१७",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"64": {
+				"value": "२४",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"65": {
+				"value": "३१",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"70": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"71": {
+				"value": "४",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"72": {
+				"value": "११",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"73": {
+				"value": "१८",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"74": {
+				"value": "२५",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"75": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			}
+		},
+
+
+		{
+
+			"name": "डिसेंबर",
+			"start": "friday - 6",
+			"10": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"11": {
+				"value": "३१",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"12": {
+				"value": "३",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"13": {
+				"value": "१०",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"14": {
+				"value": "१७",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"15": {
+				"value": "२४",
+				"is_holiday": "true",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"20": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"21": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"22": {
+				"value": "४",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"23": {
+				"value": "११",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"24": {
+				"value": "१८",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"25": {
+				"value": "२५",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"30": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"31": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"32": {
+				"value": "५",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"33": {
+				"value": "१२",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"34": {
+				"value": "१९",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"35": {
+				"value": "२६",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"40": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"41": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"42": {
+				"value": "६",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"43": {
+				"value": "१३",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"44": {
+				"value": "२०",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"45": {
+				"value": "२७",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"50": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"51": {
+				"value": "",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"52": {
+				"value": "७",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"53": {
+				"value": "१४",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"54": {
+				"value": "२१",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"55": {
+				"value": "२८",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"60": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"61": {
+				"value": "१",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"62": {
+				"value": "८",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"63": {
+				"value": "१५",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"64": {
+				"value": "२२",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"65": {
+				"value": "२९",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+
+			"70": {
+				"value": "",
+				"is_holiday": "",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"71": {
+				"value": "२",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"72": {
+				"value": "९",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"73": {
+				"value": "१६",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"74": {
+				"value": "२३",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			},
+			"75": {
+				"value": "३०",
+				"is_holiday": "false",
+				"is_festival": "false",
+				"festivals": "",
+				"is_amavasya_pornima": "false",
+				"special_day": ""
+			}
+		}
+
+	]
 }
