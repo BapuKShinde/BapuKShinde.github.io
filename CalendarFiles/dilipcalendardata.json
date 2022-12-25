@@ -539,7 +539,7 @@
 				"is_festival": "false",
 				"festivals": "जया एकादशी",
 				"is_amavasya_pornima": "E",
-				"special_day": ""
+				"special_day": "जया एकादशी"
 			},
 			"42": {
 				"value": "८",
@@ -555,7 +555,7 @@
 				"is_festival": "false",
 				"festivals": "रामदास नवमी",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "रामदास नवमी"
 			},
 			"44": {
 				"value": "२२",
@@ -596,7 +596,7 @@
 				"is_festival": "false",
 				"festivals": "संकष्ट चतुर्थी",
 				"is_amavasya_pornima": "S",
-				"special_day": ""
+				"special_day": "संकष्ट चतुर्"
 			},
 			"53": {
 				"value": "१६",
@@ -612,7 +612,7 @@
 				"is_festival": "false",
 				"festivals": "संत गाडगेबाबा जयंती",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "संत गाडगेबाबा जयंत"
 			},
 			"55": {
 				"value": "",
@@ -661,7 +661,7 @@
 				"is_festival": "false",
 				"festivals": "जागतीक मुद्रन दिन",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "जागतीक मुद्रन दिन"
 			},
 			"65": {
 				"value": "",
