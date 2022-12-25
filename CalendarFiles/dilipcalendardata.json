@@ -398,9 +398,9 @@
 				"value": "५",
 				"is_holiday": "true",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "संत रोहिदास जयंती",
 				"is_amavasya_pornima": "P",
-				"special_day": ""
+				"special_day": "संत रोहिदास जयंती"
 			},
 			"13": {
 				"value": "१२",
@@ -422,9 +422,9 @@
 				"value": "२६",
 				"is_holiday": "true",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "स्वातंत्र्यवीर सावरकर पुण्यदिन",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "स्वातंत्र्यवीर सावरकर पुण्यदिन"
 			},
 
 			"20": {
@@ -447,25 +447,25 @@
 				"value": "६",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "गुरुप्रतिपदा,संत निवृत्तिनाथ जयंती",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "गुरुप्रतिपदा,संत निवृत्तिनाथ जयंती"
 			},
 			"23": {
 				"value": "१३",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "गजानन महाराज प्रकट दिन शेगाव",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "गजानन महाराज प्रकट दिन शेगाव"
 			},
 			"24": {
 				"value": "२०",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "मराठी राजभाषा दिन",
 				"is_amavasya_pornima": "A",
-				"special_day": ""
+				"special_day": "मराठी राजभाषा दिन"
 			},
 			"25": {
 				"value": "२७",
@@ -512,17 +512,17 @@
 				"value": "२१",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "श्री रामकृष्ण परमहंस जयंती",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "श्री रामकृष्ण परमहंस जयंती"
 			},
 			"35": {
 				"value": "२८",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "राष्ट्रीय विज्ञान दिन",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "राष्ट्रीय विज्ञान दिन"
 			},
 
 			"40": {
@@ -537,7 +537,7 @@
 				"value": "१",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "जया एकादशी",
 				"is_amavasya_pornima": "E",
 				"special_day": ""
 			},
@@ -553,7 +553,7 @@
 				"value": "१५",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "रामदास नवमी",
 				"is_amavasya_pornima": "false",
 				"special_day": ""
 			},
@@ -594,8 +594,8 @@
 				"value": "९",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
-				"is_amavasya_pornima": "G",
+				"festivals": "संकष्ट चतुर्थी",
+				"is_amavasya_pornima": "S",
 				"special_day": ""
 			},
 			"53": {
@@ -610,7 +610,7 @@
 				"value": "२३",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "संत गाडगेबाबा जयंती",
 				"is_amavasya_pornima": "false",
 				"special_day": ""
 			},
@@ -637,7 +637,7 @@
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "विश्वकर्मा जयंती"
 			},
 			"62": {
 				"value": "१०",
@@ -659,7 +659,7 @@
 				"value": "२४",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "जागतीक मुद्रन दिन",
 				"is_amavasya_pornima": "false",
 				"special_day": ""
 			},
