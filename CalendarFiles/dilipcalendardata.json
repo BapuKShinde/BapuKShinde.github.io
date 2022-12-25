@@ -4,7 +4,7 @@
 	"pre_shake": "१९४४",
 	"post_shake": "१९४५",
 	"is_leap_year": false,
-	"is_new_year_update_available": false,
+	"is_new-year-update-available": true,
 	"current_year_data_link": "https://bapukshinde.github.io/CalendarFiles/dilipcalendardata.json",
 	"new_year_data_link": "https://bapukshinde.github.io/CalendarFiles/dilipcalendardata.json",
 	"new_year": "२०२३",
@@ -22,6 +22,7 @@
 		"कार्त्तिक-मार्गशीर्ष शके-१९४५"
 
 	],
+	  
 	"Data": [
 
 		{
@@ -40,10 +41,10 @@
 			"11": {
 				"value": "१",
 				"is_holiday": "true",
-				"is_festival": "false",
-				"festivals": "",
+				"is_festival": "true",
+				"festivals": "नुतन वर्षाभीनंदन",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "नुतन वर्षाभीनंदन"
 			},
 			"12": {
 				"value": "८",
@@ -56,10 +57,10 @@
 			"13": {
 				"value": "१५",
 				"is_holiday": "true",
-				"is_festival": "false",
-				"festivals": "",
+				"is_festival": "true",
+				"festivals": "मकर संक्रांत",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "मकर संक्रांत"
 			},
 			"14": {
 				"value": "२२",
@@ -73,9 +74,9 @@
 				"value": "२९",
 				"is_holiday": "true",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "दुर्गाष्टमी",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "दुर्गाष्टमी"
 			},
 
 			"20": {
@@ -90,9 +91,9 @@
 				"value": "२",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "पुत्रदा एकादशी",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "पुत्रदा एकादशी"
 			},
 			"22": {
 				"value": "९",
@@ -106,25 +107,25 @@
 				"value": "१६",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "छत्रपती संभाजीराजे राज्याभिषेक दिन",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "छत्रपती संभाजीराजे राज्याभिषेक दिन"
 			},
 			"24": {
 				"value": "२३",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "नेताजी जयंती",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "नेताजी जयंती"
 			},
 			"25": {
 				"value": "३०",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "महात्मा गांधी पुण्यदिन",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "महात्मा गांधी पुण्यदिन"
 			},
 
 			"30": {
@@ -139,9 +140,9 @@
 				"value": "३",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "महिला मुक्तीदिन,ज्ञानज्योती सावित्रीबाई फुले जयंती",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "महिला मुक्तीदिन,ज्ञानज्योती सावित्रीबाई फुले जयंती"
 			},
 			"32": {
 				"value": "१०",
@@ -163,9 +164,9 @@
 				"value": "२४",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "शरिरिक शिक्षण दिन",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "शरिरिक शिक्षण दिन"
 			},
 			"35": {
 				"value": "३१",
@@ -196,9 +197,9 @@
 				"value": "११",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "लाल बहादुर शास्त्री पुण्यदिन",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "लाल बहादुर शास्त्री पुण्यदिन"
 			},
 			"43": {
 				"value": "१८",
@@ -212,9 +213,9 @@
 				"value": "२५",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "श्री गणेश जयंती",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "श्री गणेश जयंती"
 			},
 			"45": {
 				"value": "",
@@ -245,9 +246,9 @@
 				"value": "१२",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "राजमाता जिजाऊ जयंती,स्वामी विवेकानंद जयंती",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "राजमाता जिजाऊ जयंती,स्वामी विवेकानंद जयंती"
 			},
 			"53": {
 				"value": "१९",
@@ -286,9 +287,9 @@
 				"value": "६",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "पत्रकार दिन",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "पत्रकार दिन"
 			},
 			"62": {
 				"value": "१३",
@@ -343,9 +344,9 @@
 				"value": "१४",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "भोगी",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "भोगी"
 			},
 			"73": {
 				"value": "२१",
