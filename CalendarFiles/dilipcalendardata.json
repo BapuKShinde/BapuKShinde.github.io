@@ -4,7 +4,7 @@
 	"pre_shake": "१९४४",
 	"post_shake": "१९४५",
 	"is_leap_year": false,
-	"is_new-year-update-available": false,
+	"is_new_year_update_available": false,
 	"current_year_data_link": "https://bapukshinde.github.io/CalendarFiles/dilipcalendardata.json",
 	"new_year_data_link": "https://bapukshinde.github.io/CalendarFiles/dilipcalendardata.json",
 	"new_year": "२०२३",
