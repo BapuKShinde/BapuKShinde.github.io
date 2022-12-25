@@ -6,9 +6,8 @@
 	"is_leap_year": false,
 	"is_new-year-update-available": true,
 	"current_year_data_link": "https://bapukshinde.github.io/CalendarFiles/dilipcalendardata.json",
-	  "new_year_data_link": "https://bapukshinde.github.io/CalendarFiles/dilipcalendardata.json",
-	"new_year": "",
-	"new_year_data_link": "",
+	"new_year_data_link": "https://bapukshinde.github.io/CalendarFiles/dilipcalendardata.json",
+	"new_year": "२०२३",
 	"Shake": ["मार्गशीर्ष-पौष शके-१९४३",
 		"पौष-माघ शके-१९४३",
 		"माघ-फाल्गुन शके-१९४३",
@@ -260,11 +259,11 @@
 			},
 			"54": {
 				"value": "२६",
-				"is_holiday": "false",
-				"is_festival": "false",
-				"festivals": "",
+				"is_holiday": "true",
+				"is_festival": "true",
+				"festivals": "प्रजासत्ताक दिन",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "प्रजासत्ताक दिन"
 			},
 			"55": {
 				"value": "",
@@ -413,10 +412,10 @@
 			"14": {
 				"value": "१९",
 				"is_holiday": "true",
-				"is_festival": "false",
-				"festivals": "",
+				"is_festival": "true",
+				"festivals": "छत्रपती शिवाजी महाराज जयंती",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "छत्रपती शिवाजी महाराज जयंती"
 			},
 			"15": {
 				"value": "२६",
@@ -698,11 +697,11 @@
 			},
 			"73": {
 				"value": "१८",
-				"is_holiday": "false",
-				"is_festival": "false",
-				"festivals": "",
+				"is_holiday": "true",
+				"is_festival": "true",
+				"festivals": "महाशिवरात्री",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "महाशिवरात्री"
 			},
 			"74": {
 				"value": "२५",
@@ -843,11 +842,11 @@
 			},
 			"32": {
 				"value": "७",
-				"is_holiday": "false",
-				"is_festival": "false",
-				"festivals": "",
+				"is_holiday": "true",
+				"is_festival": "true",
+				"festivals": "होली",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "होली"
 			},
 			"33": {
 				"value": "१४",
@@ -908,11 +907,11 @@
 			},
 			"44": {
 				"value": "२२",
-				"is_holiday": "false",
-				"is_festival": "false",
-				"festivals": "",
+				"is_holiday": "true",
+				"is_festival": "true",
+				"festivals": "गुढी पाडवा",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "गुढी पाडवा"
 			},
 			"45": {
 				"value": "२९",
@@ -965,11 +964,11 @@
 			},
 			"55": {
 				"value": "३०",
-				"is_holiday": "false",
-				"is_festival": "false",
-				"festivals": "",
+				"is_holiday": "true",
+				"is_festival": "true",
+				"festivals": "रामनवमी",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "रामनवमी"
 			},
 
 			"60": {
@@ -1191,11 +1190,11 @@
 			},
 			"32": {
 				"value": "४",
-				"is_holiday": "false",
-				"is_festival": "false",
-				"festivals": "",
+				"is_holiday": "true",
+				"is_festival": "true",
+				"festivals": "महावीर जयंती",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "महावीर जयंती"
 			},
 			"33": {
 				"value": "११",
@@ -1338,19 +1337,19 @@
 			},
 			"62": {
 				"value": "७",
-				"is_holiday": "false",
-				"is_festival": "false",
-				"festivals": "",
+				"is_holiday": "true",
+				"is_festival": "true",
+				"festivals": "गुड फ्रायडे",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "गुड फ्रायडे"
 			},
 			"63": {
 				"value": "१४",
-				"is_holiday": "false",
-				"is_festival": "false",
-				"festivals": "",
+				"is_holiday": "true",
+				"is_festival": "true",
+				"festivals": "डॉ. बाबासाहेब आंबेडकर जयंती",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "डॉ. बाबासाहेब आंबेडकर जयंती"
 			},
 			"64": {
 				"value": "२१",
@@ -1403,11 +1402,11 @@
 			},
 			"74": {
 				"value": "२२",
-				"is_holiday": "false",
-				"is_festival": "false",
-				"festivals": "",
+				"is_holiday": "true",
+				"is_festival": "true",
+				"festivals": "रमजान ईद",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "रमजान ईद"
 			},
 			"75": {
 				"value": "२९",
@@ -1484,11 +1483,11 @@
 			},
 			"21": {
 				"value": "१",
-				"is_holiday": "false",
-				"is_festival": "false",
-				"festivals": "",
+				"is_holiday": "true",
+				"is_festival": "true",
+				"festivals": "महाराष्ट्र दिन",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "महाराष्ट्र दिन"
 			},
 			"22": {
 				"value": "८",
@@ -1680,11 +1679,11 @@
 			},
 			"61": {
 				"value": "५",
-				"is_holiday": "false",
-				"is_festival": "false",
-				"festivals": "",
+				"is_holiday": "true",
+				"is_festival": "true",
+				"festivals": "बुध पोर्णिमा",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "बुध पोर्णिमा"
 			},
 			"62": {
 				"value": "१२",
@@ -1963,11 +1962,11 @@
 			},
 			"45": {
 				"value": "२८",
-				"is_holiday": "false",
-				"is_festival": "false",
-				"festivals": "",
+				"is_holiday": "true",
+				"is_festival": "true",
+				"festivals": "बकारी ईद",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "बकारी ईद"
 			},
 
 			"50": {
@@ -2409,11 +2408,11 @@
 			},
 			"65": {
 				"value": "२८",
-				"is_holiday": "false",
-				"is_festival": "false",
-				"festivals": "",
+				"is_holiday": "true",
+				"is_festival": "true",
+				"festivals": "मोहरम",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "मोहरम"
 			},
 
 			"70": {
@@ -2614,11 +2613,11 @@
 			},
 			"33": {
 				"value": "१५",
-				"is_holiday": "false",
-				"is_festival": "false",
-				"festivals": "",
+				"is_holiday": "true",
+				"is_festival": "true",
+				"festivals": "स्वातंत्र्यदिन",
 				"is_amavasya_pornima": "false",
-				"special_day": "",
+				"special_day": "स्वातंत्र्यदिन",
 				"other": ""
 			},
 			"34": {
@@ -2670,11 +2669,11 @@
 			},
 			"43": {
 				"value": "१६",
-				"is_holiday": "false",
-				"is_festival": "false",
-				"festivals": "",
+				"is_holiday": "true",
+				"is_festival": "true",
+				"festivals": "पारशी नवीन वर्ष",
 				"is_amavasya_pornima": "false",
-				"special_day": "",
+				"special_day": "पारशी नवीन वर्ष",
 				"other": ""
 			},
 			"44": {
@@ -3002,11 +3001,11 @@
 			},
 			"34": {
 				"value": "१९",
-				"is_holiday": "false",
-				"is_festival": "false",
-				"festivals": "",
+				"is_holiday": "true",
+				"is_festival": "true",
+				"festivals": "गणेश चतुर्थी",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "गणेश चतुर्थी"
 			},
 			"35": {
 				"value": "२६",
@@ -3108,11 +3107,11 @@
 			},
 			"55": {
 				"value": "२८",
-				"is_holiday": "false",
-				"is_festival": "false",
-				"festivals": "",
+				"is_holiday": "true",
+				"is_festival": "true",
+				"festivals": "ईद-ए-मिलाद",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "ईद-ए-मिलाद"
 			},
 
 			"60": {
@@ -3280,11 +3279,11 @@
 			},
 			"21": {
 				"value": "२",
-				"is_holiday": "false",
-				"is_festival": "false",
-				"festivals": "",
+				"is_holiday": "true",
+				"is_festival": "true",
+				"festivals": "महात्मा गांधी जयंती",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "महात्मा गांधी जयंती"
 			},
 			"22": {
 				"value": "९",
@@ -3353,11 +3352,11 @@
 			},
 			"34": {
 				"value": "२४",
-				"is_holiday": "false",
-				"is_festival": "false",
-				"festivals": "",
+				"is_holiday": "true",
+				"is_festival": "true",
+				"festivals": "दसरा",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "दसरा"
 			},
 			"35": {
 				"value": "३१",
@@ -3598,10 +3597,10 @@
 			"13": {
 				"value": "१२",
 				"is_holiday": "true",
-				"is_festival": "false",
-				"festivals": "",
+				"is_festival": "true",
+				"festivals": "लक्ष्मी पूजन",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "लक्ष्मी पूजन"
 			},
 			"14": {
 				"value": "१९",
@@ -3662,11 +3661,11 @@
 			},
 			"25": {
 				"value": "२७",
-				"is_holiday": "false",
-				"is_festival": "false",
-				"festivals": "",
+				"is_holiday": "true",
+				"is_festival": "true",
+				"festivals": "गुरुनानक जयंती",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "गुरुनानक जयंती"
 			},
 
 			"30": {
@@ -3695,11 +3694,11 @@
 			},
 			"33": {
 				"value": "१४",
-				"is_holiday": "false",
-				"is_festival": "false",
-				"festivals": "",
+				"is_holiday": "true",
+				"is_festival": "true",
+				"festivals": "दिवाळी",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "दिवाळी"
 			},
 			"34": {
 				"value": "२१",
@@ -4011,11 +4010,11 @@
 			},
 			"25": {
 				"value": "२५",
-				"is_holiday": "false",
-				"is_festival": "false",
-				"festivals": "",
+				"is_holiday": "true",
+				"is_festival": "true",
+				"festivals": "नाताळ",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "नाताळ"
 			},
 
 			"30": {
