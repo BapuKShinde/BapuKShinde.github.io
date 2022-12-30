@@ -22,7 +22,7 @@
 		"कार्त्तिक-मार्गशीर्ष शके-१९४५"
 
 	],
-	  
+
 	"Data": [
 
 		{
@@ -747,17 +747,17 @@
 				"value": "५",
 				"is_holiday": "true",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "समता दिन",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "समता दिन"
 			},
 			"13": {
 				"value": "१२",
 				"is_holiday": "true",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "रंगपंचमी, यशवंतराव चव्हाण जन्मदिन",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "रंगपंचमी, यशवंतराव चव्हाण जन्मदिन"
 			},
 			"14": {
 				"value": "१९",
@@ -861,9 +861,9 @@
 				"value": "२१",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "छ. संभाजीराजे पुण्यतिथी",
 				"is_amavasya_pornima": "A",
-				"special_day": ""
+				"special_day": "छ. संभाजीराजे पुण्यतिथी"
 			},
 			"35": {
 				"value": "२८",
@@ -896,7 +896,7 @@
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "जागतिक महिला दिन"
 			},
 			"43": {
 				"value": "१५",
@@ -904,7 +904,7 @@
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "जागतिक ग्राहक दिन"
 			},
 			"44": {
 				"value": "२२",
@@ -945,7 +945,7 @@
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "संत तुकाराम बीज"
 			},
 			"53": {
 				"value": "१६",
@@ -953,7 +953,7 @@
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "छ.राजाराम महाराज पुण्यतिथी"
 			},
 			"54": {
 				"value": "२३",
@@ -961,7 +961,7 @@
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "स्वामी समर्थ प्रकट दिन"
 			},
 			"55": {
 				"value": "३०",
@@ -986,15 +986,15 @@
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "E",
-				"special_day": ""
+				"special_day": "आमलकी एकादशी"
 			},
 			"62": {
 				"value": "१०",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "शिवजयंती(तिथीप्रमाणे),ज्ञानज्योती सावित्रीबाई फुले पुण्यदिन",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "शिवजयंती(तिथीप्रमाणे),ज्ञानज्योती सावित्रीबाई फुले पुण्यदिन"
 			},
 			"63": {
 				"value": "१७",
@@ -1010,7 +1010,7 @@
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "जागतिक क्षयरोग दिन"
 			},
 			"65": {
 				"value": "३१",
@@ -1043,7 +1043,7 @@
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "G",
-				"special_day": ""
+				"special_day": "छ.संभाजीराजे बलिदान दिन"
 			},
 			"73": {
 				"value": "१८",
@@ -1051,7 +1051,7 @@
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "E",
-				"special_day": ""
+				"special_day": "पापमोचनी एकादशी"
 			},
 			"74": {
 				"value": "२५",
@@ -1059,7 +1059,7 @@
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "विनायक चतुर्थी"
 			},
 			"75": {
 				"value": "",
