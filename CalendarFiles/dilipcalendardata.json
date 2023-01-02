@@ -700,9 +700,9 @@
 				"value": "१८",
 				"is_holiday": "true",
 				"is_festival": "true",
-				"festivals": "महाशिवरात्री",
+				"festivals": "महाशिवरात्रीरी,गुरु माउली जन्मदिवस",
 				"is_amavasya_pornima": "false",
-				"special_day": "महाशिवरात्री"
+				"special_day": "महाशिवरात्री,गुरु माउली जन्मदिवस"
 			},
 			"74": {
 				"value": "२५",
@@ -910,9 +910,9 @@
 				"value": "२२",
 				"is_holiday": "true",
 				"is_festival": "true",
-				"festivals": "गुढी पाडवा",
+				"festivals": "गुढी पाडवा,गोपाळपूर पहाटे पूजा",
 				"is_amavasya_pornima": "false",
-				"special_day": "गुढी पाडवा"
+				"special_day": "गुढी पाडवा,गोपाळपूर पहाटे पूजा"
 			},
 			"45": {
 				"value": "२९",
@@ -1144,9 +1144,9 @@
 				"value": "३",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "कान्हेश्वर भगवान लग्न महादेव नगर कान्हेगाव",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "कान्हेश्वर भगवान लग्न महादेव नगर कान्हेगाव"
 			},
 			"23": {
 				"value": "१०",
@@ -1916,9 +1916,9 @@
 				"value": "२७",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "संत माधवदास महाराज पु. ती. निमित्त रात्री जागर",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "संत माधवदास महाराज पु. ती. निमित्त रात्री जागर"
 			},
 
 			"40": {
@@ -1965,9 +1965,9 @@
 				"value": "२८",
 				"is_holiday": "true",
 				"is_festival": "true",
-				"festivals": "बकारी ईद",
+				"festivals": "बकारी ईद,संत माधवदास महाराज पु. ती. निमित्त दुपारी गुलाल",
 				"is_amavasya_pornima": "false",
-				"special_day": "बकारी ईद"
+				"special_day": "बकारी ईद,संत माधवदास महाराज पु. ती. निमित्त दुपारी गुलाल"
 			},
 
 			"50": {
@@ -2014,9 +2014,9 @@
 				"value": "२९",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "आषाढी एकादशी निमित्त दर्शन सोहळा व अखंड हरिनाम सप्ताह प्रारंभ",
 				"is_amavasya_pornima": "E",
-				"special_day": ""
+				"special_day": "आषाढी एकादशी निमित्त दर्शन सोहळा व अखंड हरिनाम सप्ताह प्रारंभ"
 			},
 
 			"60": {
@@ -2191,9 +2191,9 @@
 				"value": "३",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "गुरुपौर्णिमा,गोपाळपूरचा दिंडी सोहळा व गोपाळकाला",
 				"is_amavasya_pornima": "P",
-				"special_day": ""
+				"special_day": "गुरुपौर्णिमा,गोपाळपूरचा दिंडी सोहळा व गोपाळकाला"
 			},
 			"23": {
 				"value": "१०",
@@ -2289,9 +2289,9 @@
 				"value": "५",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "गुरुमाऊली पु. ती. निमित्त हरिजागर",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "गुरुमाऊली पु. ती. निमित्त हरिजागर"
 			},
 			"43": {
 				"value": "१२",
@@ -2338,9 +2338,9 @@
 				"value": "६",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "गुरुमाऊली पु.ती.निमित्त गुलाल  काल्याचे कीर्तन व सप्ताह समाप्ती",
 				"is_amavasya_pornima": "G",
-				"special_day": ""
+				"special_day": "गुरुमाऊली पु.ती.निमित्त गुलाल  काल्याचे कीर्तन व सप्ताह समाप्ती"
 			},
 			"53": {
 				"value": "१३",
@@ -2568,9 +2568,9 @@
 				"value": "२१",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "नागपंचमी, माधवपुरी महाराज जन्मोत्सव कान्हेगाव",
 				"is_amavasya_pornima": "false",
-				"special_day": "",
+				"special_day": "नागपंचमी, माधवपुरी महाराज जन्मोत्सव कान्हेगाव",
 				"other": ""
 			},
 			"25": {
@@ -3037,9 +3037,9 @@
 				"value": "६",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "श्रीकृष्ण जन्माष्टमी,संत माधवदास महाराज जयंती",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "श्रीकृष्ण जन्माष्टमी,संत माधवदास महाराज जयंती"
 			},
 			"43": {
 				"value": "१३",
@@ -3811,9 +3811,9 @@
 				"value": "३०",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "संत माधवपुरी महाराज पु.ती.निमित्त जागर",
 				"is_amavasya_pornima": "G",
-				"special_day": ""
+				"special_day": "संत माधवपुरी महाराज पु.ती.निमित्त जागर"
 			},
 
 			"60": {
@@ -4177,9 +4177,9 @@
 				"value": "१",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "गोपाळपूर येथे पालखी सोहळा व गुलाल काला",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "गोपाळपूर येथे पालखी सोहळा व गुलाल काला"
 			},
 			"62": {
 				"value": "८",
