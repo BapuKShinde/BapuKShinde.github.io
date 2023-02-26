@@ -1,25 +1,25 @@
 {
-	"current_year": "२०२३",
-	"current_year_int": 2023,
-	"pre_shake": "१९४४",
-	"post_shake": "१९४५",
+	"current_year": "२०10",
+	"current_year_int": 2010,
+	"pre_shake": "1010",
+	"post_shake": "1010",
 	"is_leap_year": false,
 	"is_new-year-update-available": true,
-	"current_year_data_link": "https://bapukshinde.github.io/CalendarFiles/dilipcalendardata.json",
-	"new_year_data_link": "https://bapukshinde.github.io/CalendarFiles/dilipcalendardata.json",
+	"current_year_data_link": "dfdd",
+	"new_year_data_link": "dddfdfg",
 	"new_year": "२०२३",
-	"Shake": ["पौष-माघ शके-१९४४",
-		"माघ-फाल्गुन शके-१९४४",
-		"फाल्गुन-चैत्र शके-१९४४-१९४५",
-		"चैत्र-वैशाख शके-१९४५",
-		"वैशाख-ज्येष्ठ शके-१९४५",
-		"ज्येष्ठ-आषाढ शके-१९४५",
-		"आषाढ-अधिक श्रावण शके-१९४५",
-		"अ.श्रावण-नी.श्रावण शके-१९४५",
-		"नी.श्रावण-भाद्रपद शके-१९४५",
-		"भाद्रपद-आश्विन शके-१९४५",
-		"कार्त्तिक-कार्त्तिक शके-१९४५",
-		"कार्त्तिक-मार्गशीर्ष शके-१९४५"
+	"Shake": ["absdhshd",
+		"sdsds",
+		"sddsf",
+		"ssd",
+		"sdfsdfsf",
+		"sdfsddfsddf",
+		"sdsd",
+		"sdfsdfsd",
+		"dsfdsfdsf",
+		"dsdsfdsf",
+		"sdfsdfdsf",
+		"sdwefdsdsfdsf"
 
 	],
 
@@ -42,9 +42,9 @@
 				"value": "१",
 				"is_holiday": "true",
 				"is_festival": "true",
-				"festivals": "नुतन वर्षाभीनंदन",
+				"festivals": "dsfdsf",
 				"is_amavasya_pornima": "false",
-				"special_day": "नुतन वर्षाभीनंदन"
+				"special_day": "sdfdsfdsf"
 			},
 			"12": {
 				"value": "८",
@@ -58,9 +58,9 @@
 				"value": "१५",
 				"is_holiday": "true",
 				"is_festival": "true",
-				"festivals": "मकर संक्रांत",
+				"festivals": "dsdsfdsf",
 				"is_amavasya_pornima": "false",
-				"special_day": "मकर संक्रांत"
+				"special_day": "मकर dfdfdafdafdsfdsfdsfdsf
 			},
 			"14": {
 				"value": "२२",
@@ -74,9 +74,9 @@
 				"value": "२९",
 				"is_holiday": "true",
 				"is_festival": "false",
-				"festivals": "दुर्गाष्टमी",
+				"festivals": "दreferref",
 				"is_amavasya_pornima": "false",
-				"special_day": "दुर्गाष्टमी"
+				"special_day": "dsfdsfdfdf"
 			},
 
 			"20": {
@@ -91,9 +91,9 @@
 				"value": "२",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "पुत्रदा एकादशी",
+				"festivals": "पुत्रदा dsdsdsdf",
 				"is_amavasya_pornima": "E",
-				"special_day": "पुत्रदा एकादशी"
+				"special_day": "पुत्रदा dsdsfdsf"
 			},
 			"22": {
 				"value": "९",
@@ -107,17 +107,17 @@
 				"value": "१६",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "छत्रपती संभाजीराजे राज्याभिषेक दिन",
+				"festivals": "dsfsdafdsf",
 				"is_amavasya_pornima": "false",
-				"special_day": "छत्रपती संभाजीराजे राज्याभिषेक दिन"
+				"special_day": "dsdsfdsf"
 			},
 			"24": {
 				"value": "२३",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "नेताजी जयंती",
+				"festivals": "dsfsdfdsf जयंती",
 				"is_amavasya_pornima": "false",
-				"special_day": "नेताजी जयंती"
+				"special_day": "sdfdsfdsf जयंती"
 			},
 			"25": {
 				"value": "३०",
@@ -747,17 +747,17 @@
 				"value": "५",
 				"is_holiday": "true",
 				"is_festival": "false",
-				"festivals": "समता दिन",
+				"festivals": "समताfdsfdsfdsfadsfwdfिन",
 				"is_amavasya_pornima": "false",
-				"special_day": "समता दिन"
+				"special_day": "समता sdfdsfadsfadsfdsदिन"
 			},
 			"13": {
 				"value": "१२",
 				"is_holiday": "true",
 				"is_festival": "false",
-				"festivals": "रंगपंचमी, यशवंतराव चव्हाण जन्मदिन",
+				"festivals": "रंगपंचमी, यशवंsdfdsfadsfdsfdsfdsfdsतराव चव्हाण जन्मदिन",
 				"is_amavasya_pornima": "false",
-				"special_day": "रंगपंचमी, यशवंतराव चव्हाण जन्मदिन"
+				"special_day": "रंगपंचमी, यशवंतdsfdsfdsfdsfdsfdsfdsfsdfdsfewrewrcrqewcrqewराव चव्हाण जन्मदिन"
 			},
 			"14": {
 				"value": "१९",
@@ -845,9 +845,9 @@
 				"value": "७",
 				"is_holiday": "true",
 				"is_festival": "true",
-				"festivals": "होली",
+				"festivals": "होewdwedxewdली",
 				"is_amavasya_pornima": "P",
-				"special_day": "होली"
+				"special_day": "होलewwerewrewdी"
 			},
 			"33": {
 				"value": "१४",
@@ -861,9 +861,9 @@
 				"value": "२१",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "छ. संभाजीराजे पुण्यतिथी",
+				"festivals": "छ. संdsdssभाजdsdsddssीराजे पुण्sdsdsdयतिथी",
 				"is_amavasya_pornima": "A",
-				"special_day": "छ. संभाजीराजे पुण्यतिथी"
+				"special_day": "छsdsddss. sdsdसंभsdsdाजीsdsdरsdsdाजे पुsdsdsण्यतिथी"
 			},
 			"35": {
 				"value": "२८",
@@ -904,15 +904,15 @@
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
-				"special_day": "जागतिक ग्राहक दिन"
+				"special_day": "जाsdsdगsdsdsddतिक ग्राsdsdsdहक दिन"
 			},
 			"44": {
 				"value": "२२",
 				"is_holiday": "true",
 				"is_festival": "true",
-				"festivals": "गुढी पाडवा,गोपाळपूर पहाटे पूजा",
+				"festivals": "गुsdsdsdढsdsdsdी पाsdsdsdsaडवsdsdा,गोपाळपूर पहाटे पूजा",
 				"is_amavasya_pornima": "false",
-				"special_day": "गुढी पाडवा,गोपाळपूर पहाटे पूजा"
+				"special_day": "गुsdsdsdsadsadsadsadsadढी पाडवा,गोपाळपूर पहाटे पूजा"
 			},
 			"45": {
 				"value": "२९",
@@ -945,7 +945,7 @@
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
-				"special_day": "संत तुकाराम बीज"
+				"special_day": "संत sadsadsadsad sdsdsadsadsadsadज"
 			},
 			"53": {
 				"value": "१६",
@@ -953,7 +953,7 @@
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
-				"special_day": "छ.राजाराम महाराज पुण्यतिथी"
+				"special_day": "sdsadsadsadsadsadsad महाराज पुण्यतिथी"
 			},
 			"54": {
 				"value": "२३",
@@ -961,15 +961,15 @@
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
-				"special_day": "स्वामी समर्थ प्रकट दिन"
+				"special_day": "sdsadsadsad sadsadsadsad प्रकट दिन"
 			},
 			"55": {
 				"value": "३०",
 				"is_holiday": "true",
 				"is_festival": "true",
-				"festivals": "रामनवमी",
+				"festivals": "sdsadsadsadी",
 				"is_amavasya_pornima": "false",
-				"special_day": "रामनवमी"
+				"special_day": "sdsdsadsadasdी"
 			},
 
 			"60": {
@@ -992,9 +992,9 @@
 				"value": "१०",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "शिवजयंती(तिथीप्रमाणे),ज्ञानज्योती सावित्रीबाई फुले पुण्यदिन",
+				"festivals": "sdsadsadsadsad",
 				"is_amavasya_pornima": "false",
-				"special_day": "शिवजयंती(तिथीप्रमाणे),ज्ञानज्योती सावित्रीबाई फुले पुण्यदिन"
+				"special_day": "dsadsadsadsads"
 			},
 			"63": {
 				"value": "१७",
@@ -1010,7 +1010,7 @@
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
-				"special_day": "जागतिक क्षयरोग दिन"
+				"special_day": "dsadsadsadsad"
 			},
 			"65": {
 				"value": "३१",
@@ -1043,7 +1043,7 @@
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "G",
-				"special_day": "छ.संभाजीराजे बलिदान दिन"
+				"special_day": "sdsadsadsadsad"
 			},
 			"73": {
 				"value": "१८",
@@ -1051,7 +1051,7 @@
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "E",
-				"special_day": "पापमोचनी एकादशी"
+				"special_day": "sdsdsadasd"
 			},
 			"74": {
 				"value": "२५",
@@ -1059,7 +1059,7 @@
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
-				"special_day": "विनायक चतुर्थी"
+				"special_day": "sdsadsafsafथी"
 			},
 			"75": {
 				"value": "",
@@ -1087,9 +1087,9 @@
 				"value": "३०",
 				"is_holiday": "true",
 				"is_festival": "false",
-				"festivals": "राष्ट्रसंत तुकडोजी महाराज जयंती",
+				"festivals": "sfsafsafी",
 				"is_amavasya_pornima": "false",
-				"special_day": "राष्ट्रसंत तुकडोजी महाराज जयंती"
+				"special_day": "sasafsasी"
 			},
 			"12": {
 				"value": "२",
@@ -1097,7 +1097,7 @@
 				"is_festival": "false",
 				"festivals": "कामदा एकादशी",
 				"is_amavasya_pornima": "false",
-				"special_day": "कामदा एकादशी"
+				"special_day": "dsaddsadasdsad"
 			},
 			"13": {
 				"value": "९",
@@ -1144,9 +1144,9 @@
 				"value": "३",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "कान्हेश्वर भगवान लग्न महादेव नगर कानेगाव,छ. शिवाजी महाराज पुण्यदिन, श्री महावीर जयंती",
+				"festivals": "ी",
 				"is_amavasya_pornima": "false",
-				"special_day": "कान्हेश्वर भगवान लग्न महादेव नगर कानेगाव,छ. शिवाजी महाराज पुण्यदिन, श्री महावीर जयंती"
+				"special_day": "hahahahahahahahahahी"
 			},
 			"23": {
 				"value": "१०",
@@ -1168,9 +1168,9 @@
 				"value": "२४",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "श्री सत्य साईबाबा पुण्यदिन",
+				"festivals": "are bapre",
 				"is_amavasya_pornima": "false",
-				"special_day": "श्री सत्य साईबाबा पुण्यदिन"
+				"special_day": "abcdन"
 			},
 
 			"30": {
