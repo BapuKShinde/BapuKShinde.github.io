@@ -5,7 +5,7 @@
     "post_shake": "१९४५",
     "is_leap_year": true,
     "is_new-year-update-available": true,
-   "current_year_data_link": "https://bapukshinde.github.io/marathicalendardata.json",
+    "current_year_data_link": "https://bapukshinde.github.io/marathicalendardata.json",
 	"new_year_data_link": "https://bapukshinde.github.io/marathicalendardata.json",
     "new_year": "२०२४",
     "Shake": [
@@ -677,8 +677,8 @@
             },
             "73": {
                 "value": "१७",
-                "is_holiday": "true",
-                "is_festival": "true",
+                "is_holiday": "false",
+                "is_festival": "false",
                 "festivals": "",
                 "is_amavasya_pornima": "false",
                 "special_day": ""
@@ -824,8 +824,8 @@
             },
             "33": {
                 "value": "१२",
-                "is_holiday": "true",
-                "is_festival": "true",
+                "is_holiday": "false",
+                "is_festival": "false",
                 "festivals": "",
                 "is_amavasya_pornima": "false",
                 "special_day": ""
@@ -1881,8 +1881,8 @@
             },
             "42": {
                 "value": "५",
-                "is_holiday": "true",
-                "is_festival": "true",
+                "is_holiday": "false",
+                "is_festival": "false",
                 "festivals": "",
                 "is_amavasya_pornima": "false",
                 "special_day": ""
@@ -2711,8 +2711,8 @@
             },
             "73": {
                 "value": "१७",
-                "is_holiday": "true",
-                "is_festival": "true",
+                "is_holiday": "false",
+                "is_festival": "false",
                 "festivals": "",
                 "is_amavasya_pornima": "false",
                 "special_day": ""
@@ -3536,8 +3536,8 @@
             },
             "33": {
                 "value": "१२",
-                "is_holiday": "true",
-                "is_festival": "true",
+                "is_holiday": "false",
+                "is_festival": "false",
                 "festivals": "",
                 "is_amavasya_pornima": "false",
                 "special_day": ""
