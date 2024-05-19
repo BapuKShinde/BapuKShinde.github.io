@@ -3,7 +3,7 @@
     "current_year_int": 2024,
     "pre_shake": "१९४४",
     "post_shake": "१९४५",
-    "is_leap_year": false,
+    "is_leap_year": true,
     "is_new-year-update-available": true,
    "current_year_data_link": "https://bapukshinde.github.io/marathicalendardata.json",
 	"new_year_data_link": "https://bapukshinde.github.io/marathicalendardata.json",
