@@ -1,8 +1,8 @@
 {
 	"current_year": "२०२६",
 	"current_year_int": 2026,
-	"pre_shake": "१९४७",
-	"post_shake": "१९४८",
+	"pre_shake": "१९४६",
+	"post_shake": "१९४७",
 	"is_leap_year": false,
 	"is_new-year-update-available": false,
 	"current_year_data_link": "https://bapukshinde.github.io/marathicalendardata.json",
@@ -21,7 +21,6 @@
 		"भाद्रपद-आश्विन शके-१९४८",
 		"आश्विन-कार्त्तिक शके-१९४८",
 		"कार्त्तिक-मार्गशीर्ष शके-१९४८"
-		
 	],
 	"Data": [
 		{
@@ -43,7 +42,7 @@
 				"special_day": ""
 			},
 			"12": {
-				"value": "५",
+				"value": "४",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -51,7 +50,7 @@
 				"special_day": ""
 			},
 			"13": {
-				"value": "१२",
+				"value": "११",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -59,7 +58,7 @@
 				"special_day": ""
 			},
 			"14": {
-				"value": "१९",
+				"value": "१८",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -67,7 +66,7 @@
 				"special_day": ""
 			},
 			"15": {
-				"value": "२६",
+				"value": "२५",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -91,7 +90,7 @@
 				"special_day": ""
 			},
 			"22": {
-				"value": "६",
+				"value": "५",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -99,7 +98,7 @@
 				"special_day": ""
 			},
 			"23": {
-				"value": "१३",
+				"value": "१२",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -107,7 +106,7 @@
 				"special_day": ""
 			},
 			"24": {
-				"value": "२०",
+				"value": "१९",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -115,7 +114,7 @@
 				"special_day": ""
 			},
 			"25": {
-				"value": "२७",
+				"value": "२६",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -139,7 +138,7 @@
 				"special_day": ""
 			},
 			"32": {
-				"value": "७",
+				"value": "६",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -147,7 +146,7 @@
 				"special_day": ""
 			},
 			"33": {
-				"value": "१४",
+				"value": "१३",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -155,7 +154,7 @@
 				"special_day": ""
 			},
 			"34": {
-				"value": "२१",
+				"value": "२०",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -163,7 +162,7 @@
 				"special_day": ""
 			},
 			"35": {
-				"value": "२८",
+				"value": "२७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -179,7 +178,7 @@
 				"special_day": ""
 			},
 			"41": {
-				"value": "१",
+				"value": "",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -187,7 +186,7 @@
 				"special_day": ""
 			},
 			"42": {
-				"value": "८",
+				"value": "७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -195,7 +194,7 @@
 				"special_day": ""
 			},
 			"43": {
-				"value": "१५",
+				"value": "१४",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -203,7 +202,7 @@
 				"special_day": ""
 			},
 			"44": {
-				"value": "२२",
+				"value": "२१",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -211,7 +210,7 @@
 				"special_day": ""
 			},
 			"45": {
-				"value": "२९",
+				"value": "२८",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -227,7 +226,7 @@
 				"special_day": ""
 			},
 			"51": {
-				"value": "२",
+				"value": "१",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -235,7 +234,7 @@
 				"special_day": ""
 			},
 			"52": {
-				"value": "९",
+				"value": "८",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -243,7 +242,7 @@
 				"special_day": ""
 			},
 			"53": {
-				"value": "१६",
+				"value": "१५",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -251,7 +250,7 @@
 				"special_day": ""
 			},
 			"54": {
-				"value": "२३",
+				"value": "२२",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -259,7 +258,7 @@
 				"special_day": ""
 			},
 			"55": {
-				"value": "३०",
+				"value": "२९",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -275,7 +274,7 @@
 				"special_day": ""
 			},
 			"61": {
-				"value": "३",
+				"value": "२",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -283,7 +282,7 @@
 				"special_day": ""
 			},
 			"62": {
-				"value": "१०",
+				"value": "९",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -291,7 +290,7 @@
 				"special_day": ""
 			},
 			"63": {
-				"value": "१७",
+				"value": "१६",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -299,7 +298,7 @@
 				"special_day": ""
 			},
 			"64": {
-				"value": "२४",
+				"value": "२३",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -307,7 +306,7 @@
 				"special_day": ""
 			},
 			"65": {
-				"value": "३१",
+				"value": "३०",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -323,7 +322,7 @@
 				"special_day": ""
 			},
 			"71": {
-				"value": "४",
+				"value": "३",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -331,7 +330,7 @@
 				"special_day": ""
 			},
 			"72": {
-				"value": "११",
+				"value": "१०",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -339,7 +338,7 @@
 				"special_day": ""
 			},
 			"73": {
-				"value": "१८",
+				"value": "१७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -347,7 +346,7 @@
 				"special_day": ""
 			},
 			"74": {
-				"value": "२५",
+				"value": "२४",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -355,7 +354,7 @@
 				"special_day": ""
 			},
 			"75": {
-				"value": "",
+				"value": "३१",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -374,15 +373,15 @@
 				"special_day": ""
 			},
 			"11": {
-				"value": "",
-				"is_holiday": "",
+				"value": "१",
+				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
 				"special_day": ""
 			},
 			"12": {
-				"value": "२",
+				"value": "८",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -390,7 +389,7 @@
 				"special_day": ""
 			},
 			"13": {
-				"value": "९",
+				"value": "१५",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -398,7 +397,7 @@
 				"special_day": ""
 			},
 			"14": {
-				"value": "१६",
+				"value": "२२",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -406,7 +405,7 @@
 				"special_day": ""
 			},
 			"15": {
-				"value": "२३",
+				"value": "",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -422,15 +421,15 @@
 				"special_day": ""
 			},
 			"21": {
-				"value": "",
-				"is_holiday": "",
+				"value": "२",
+				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
 				"special_day": ""
 			},
 			"22": {
-				"value": "३",
+				"value": "९",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -438,7 +437,7 @@
 				"special_day": ""
 			},
 			"23": {
-				"value": "१०",
+				"value": "१६",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -446,7 +445,7 @@
 				"special_day": ""
 			},
 			"24": {
-				"value": "१७",
+				"value": "२३",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -454,7 +453,7 @@
 				"special_day": ""
 			},
 			"25": {
-				"value": "२४",
+				"value": "",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -470,7 +469,7 @@
 				"special_day": ""
 			},
 			"31": {
-				"value": "",
+				"value": "३",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -478,7 +477,7 @@
 				"special_day": ""
 			},
 			"32": {
-				"value": "४",
+				"value": "१०",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -486,7 +485,7 @@
 				"special_day": ""
 			},
 			"33": {
-				"value": "११",
+				"value": "१७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -494,7 +493,7 @@
 				"special_day": ""
 			},
 			"34": {
-				"value": "१८",
+				"value": "२४",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -502,7 +501,7 @@
 				"special_day": ""
 			},
 			"35": {
-				"value": "२५",
+				"value": "",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -518,7 +517,7 @@
 				"special_day": ""
 			},
 			"41": {
-				"value": "",
+				"value": "४",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -526,7 +525,7 @@
 				"special_day": ""
 			},
 			"42": {
-				"value": "५",
+				"value": "११",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -534,7 +533,7 @@
 				"special_day": ""
 			},
 			"43": {
-				"value": "१२",
+				"value": "१८",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -542,7 +541,7 @@
 				"special_day": ""
 			},
 			"44": {
-				"value": "१९",
+				"value": "२५",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -550,7 +549,7 @@
 				"special_day": ""
 			},
 			"45": {
-				"value": "२६",
+				"value": "",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -566,7 +565,7 @@
 				"special_day": ""
 			},
 			"51": {
-				"value": "",
+				"value": "५",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -574,7 +573,7 @@
 				"special_day": ""
 			},
 			"52": {
-				"value": "६",
+				"value": "१२",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -582,7 +581,7 @@
 				"special_day": ""
 			},
 			"53": {
-				"value": "१३",
+				"value": "१९",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -590,7 +589,7 @@
 				"special_day": ""
 			},
 			"54": {
-				"value": "२०",
+				"value": "२६",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -598,7 +597,7 @@
 				"special_day": ""
 			},
 			"55": {
-				"value": "२७",
+				"value": "",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -614,7 +613,7 @@
 				"special_day": ""
 			},
 			"61": {
-				"value": "",
+				"value": "६",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -622,7 +621,7 @@
 				"special_day": ""
 			},
 			"62": {
-				"value": "७",
+				"value": "१३",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -630,7 +629,7 @@
 				"special_day": ""
 			},
 			"63": {
-				"value": "१४",
+				"value": "२०",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -638,7 +637,7 @@
 				"special_day": ""
 			},
 			"64": {
-				"value": "२१",
+				"value": "२७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -646,7 +645,7 @@
 				"special_day": ""
 			},
 			"65": {
-				"value": "२८",
+				"value": "",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -662,7 +661,7 @@
 				"special_day": ""
 			},
 			"71": {
-				"value": "१",
+				"value": "७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -670,7 +669,7 @@
 				"special_day": ""
 			},
 			"72": {
-				"value": "८",
+				"value": "१४",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -678,7 +677,7 @@
 				"special_day": ""
 			},
 			"73": {
-				"value": "१५",
+				"value": "२१",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -686,7 +685,7 @@
 				"special_day": ""
 			},
 			"74": {
-				"value": "२२",
+				"value": "२८",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -695,7 +694,7 @@
 			},
 			"75": {
 				"value": "",
-				"is_holiday": "",
+				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
@@ -713,7 +712,7 @@
 				"special_day": ""
 			},
 			"11": {
-				"value": "३०",
+				"value": "१",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -721,7 +720,7 @@
 				"special_day": ""
 			},
 			"12": {
-				"value": "२",
+				"value": "८",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -729,7 +728,7 @@
 				"special_day": ""
 			},
 			"13": {
-				"value": "९",
+				"value": "१५",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -737,7 +736,7 @@
 				"special_day": ""
 			},
 			"14": {
-				"value": "१६",
+				"value": "२२",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -745,7 +744,7 @@
 				"special_day": ""
 			},
 			"15": {
-				"value": "२३",
+				"value": "२९",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -761,7 +760,7 @@
 				"special_day": ""
 			},
 			"21": {
-				"value": "३१",
+				"value": "२",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -769,7 +768,7 @@
 				"special_day": ""
 			},
 			"22": {
-				"value": "३",
+				"value": "९",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -777,7 +776,7 @@
 				"special_day": ""
 			},
 			"23": {
-				"value": "१०",
+				"value": "१६",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -785,7 +784,7 @@
 				"special_day": ""
 			},
 			"24": {
-				"value": "१७",
+				"value": "२३",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -793,7 +792,7 @@
 				"special_day": ""
 			},
 			"25": {
-				"value": "२४",
+				"value": "३०",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -809,7 +808,7 @@
 				"special_day": ""
 			},
 			"31": {
-				"value": "",
+				"value": "३",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -817,7 +816,7 @@
 				"special_day": ""
 			},
 			"32": {
-				"value": "४",
+				"value": "१०",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -825,7 +824,7 @@
 				"special_day": ""
 			},
 			"33": {
-				"value": "११",
+				"value": "१७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -833,7 +832,7 @@
 				"special_day": ""
 			},
 			"34": {
-				"value": "१८",
+				"value": "२४",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -841,7 +840,7 @@
 				"special_day": ""
 			},
 			"35": {
-				"value": "२५",
+				"value": "३१",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -857,7 +856,7 @@
 				"special_day": ""
 			},
 			"41": {
-				"value": "",
+				"value": "४",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -865,7 +864,7 @@
 				"special_day": ""
 			},
 			"42": {
-				"value": "५",
+				"value": "११",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -873,7 +872,7 @@
 				"special_day": ""
 			},
 			"43": {
-				"value": "१२",
+				"value": "१८",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -881,7 +880,7 @@
 				"special_day": ""
 			},
 			"44": {
-				"value": "१९",
+				"value": "२५",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -889,7 +888,7 @@
 				"special_day": ""
 			},
 			"45": {
-				"value": "२६",
+				"value": "",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -905,7 +904,7 @@
 				"special_day": ""
 			},
 			"51": {
-				"value": "",
+				"value": "५",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -913,7 +912,7 @@
 				"special_day": ""
 			},
 			"52": {
-				"value": "६",
+				"value": "१२",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -921,7 +920,7 @@
 				"special_day": ""
 			},
 			"53": {
-				"value": "१३",
+				"value": "१९",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -929,7 +928,7 @@
 				"special_day": ""
 			},
 			"54": {
-				"value": "२०",
+				"value": "२६",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -937,7 +936,7 @@
 				"special_day": ""
 			},
 			"55": {
-				"value": "२७",
+				"value": "",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -953,7 +952,7 @@
 				"special_day": ""
 			},
 			"61": {
-				"value": "",
+				"value": "६",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -961,7 +960,7 @@
 				"special_day": ""
 			},
 			"62": {
-				"value": "७",
+				"value": "१३",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -969,7 +968,7 @@
 				"special_day": ""
 			},
 			"63": {
-				"value": "१४",
+				"value": "२०",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -977,7 +976,7 @@
 				"special_day": ""
 			},
 			"64": {
-				"value": "२१",
+				"value": "२७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -985,7 +984,7 @@
 				"special_day": ""
 			},
 			"65": {
-				"value": "२८",
+				"value": "",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1001,7 +1000,7 @@
 				"special_day": ""
 			},
 			"71": {
-				"value": "१",
+				"value": "७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1009,7 +1008,7 @@
 				"special_day": ""
 			},
 			"72": {
-				"value": "८",
+				"value": "१४",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1017,7 +1016,7 @@
 				"special_day": ""
 			},
 			"73": {
-				"value": "१५",
+				"value": "२१",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1025,7 +1024,7 @@
 				"special_day": ""
 			},
 			"74": {
-				"value": "२२",
+				"value": "२८",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1033,7 +1032,7 @@
 				"special_day": ""
 			},
 			"75": {
-				"value": "२९",
+				"value": "",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1053,14 +1052,14 @@
 			},
 			"11": {
 				"value": "",
-				"is_holiday": "",
+				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
 				"special_day": ""
 			},
 			"12": {
-				"value": "६",
+				"value": "५",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -1068,7 +1067,7 @@
 				"special_day": ""
 			},
 			"13": {
-				"value": "१३",
+				"value": "१२",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -1076,7 +1075,7 @@
 				"special_day": ""
 			},
 			"14": {
-				"value": "२०",
+				"value": "१९",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -1084,7 +1083,7 @@
 				"special_day": ""
 			},
 			"15": {
-				"value": "२७",
+				"value": "२६",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -1101,14 +1100,14 @@
 			},
 			"21": {
 				"value": "",
-				"is_holiday": "",
+				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
 				"special_day": ""
 			},
 			"22": {
-				"value": "७",
+				"value": "६",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1116,7 +1115,7 @@
 				"special_day": ""
 			},
 			"23": {
-				"value": "१४",
+				"value": "१३",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1124,7 +1123,7 @@
 				"special_day": ""
 			},
 			"24": {
-				"value": "२१",
+				"value": "२०",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1132,7 +1131,7 @@
 				"special_day": ""
 			},
 			"25": {
-				"value": "२८",
+				"value": "२७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1148,7 +1147,7 @@
 				"special_day": ""
 			},
 			"31": {
-				"value": "१",
+				"value": "",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1156,7 +1155,7 @@
 				"special_day": ""
 			},
 			"32": {
-				"value": "८",
+				"value": "७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1164,7 +1163,7 @@
 				"special_day": ""
 			},
 			"33": {
-				"value": "१५",
+				"value": "१४",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1172,7 +1171,7 @@
 				"special_day": ""
 			},
 			"34": {
-				"value": "२२",
+				"value": "२१",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1180,7 +1179,7 @@
 				"special_day": ""
 			},
 			"35": {
-				"value": "२९",
+				"value": "२८",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1189,14 +1188,14 @@
 			},
 			"40": {
 				"value": "",
-				"is_holiday": "",
+				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
 				"special_day": ""
 			},
 			"41": {
-				"value": "२",
+				"value": "१",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1204,7 +1203,7 @@
 				"special_day": ""
 			},
 			"42": {
-				"value": "९",
+				"value": "८",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1212,7 +1211,7 @@
 				"special_day": ""
 			},
 			"43": {
-				"value": "१६",
+				"value": "१५",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1220,7 +1219,7 @@
 				"special_day": ""
 			},
 			"44": {
-				"value": "२३",
+				"value": "२२",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1228,7 +1227,7 @@
 				"special_day": ""
 			},
 			"45": {
-				"value": "३०",
+				"value": "२९",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1237,14 +1236,14 @@
 			},
 			"50": {
 				"value": "",
-				"is_holiday": "",
+				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
 				"special_day": ""
 			},
 			"51": {
-				"value": "३",
+				"value": "२",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1252,7 +1251,7 @@
 				"special_day": ""
 			},
 			"52": {
-				"value": "१०",
+				"value": "९",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1260,7 +1259,7 @@
 				"special_day": ""
 			},
 			"53": {
-				"value": "१७",
+				"value": "१६",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1268,7 +1267,7 @@
 				"special_day": ""
 			},
 			"54": {
-				"value": "२४",
+				"value": "२३",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1276,8 +1275,8 @@
 				"special_day": ""
 			},
 			"55": {
-				"value": "",
-				"is_holiday": "",
+				"value": "३०",
+				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
@@ -1292,7 +1291,7 @@
 				"special_day": ""
 			},
 			"61": {
-				"value": "४",
+				"value": "३",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1300,7 +1299,7 @@
 				"special_day": ""
 			},
 			"62": {
-				"value": "११",
+				"value": "१०",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1308,7 +1307,7 @@
 				"special_day": ""
 			},
 			"63": {
-				"value": "१८",
+				"value": "१७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1316,7 +1315,7 @@
 				"special_day": ""
 			},
 			"64": {
-				"value": "२५",
+				"value": "२४",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1325,7 +1324,7 @@
 			},
 			"65": {
 				"value": "",
-				"is_holiday": "",
+				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
@@ -1340,7 +1339,7 @@
 				"special_day": ""
 			},
 			"71": {
-				"value": "५",
+				"value": "४",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1348,7 +1347,7 @@
 				"special_day": ""
 			},
 			"72": {
-				"value": "१२",
+				"value": "११",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1356,7 +1355,7 @@
 				"special_day": ""
 			},
 			"73": {
-				"value": "१९",
+				"value": "१८",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1364,7 +1363,7 @@
 				"special_day": ""
 			},
 			"74": {
-				"value": "२६",
+				"value": "२५",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1373,7 +1372,7 @@
 			},
 			"75": {
 				"value": "",
-				"is_holiday": "",
+				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
@@ -1381,7 +1380,7 @@
 			}
 		},
 		{
-			"name": "मे",
+			"name": " मे ",
 			"10": {
 				"value": "",
 				"is_holiday": "",
@@ -1391,15 +1390,15 @@
 				"special_day": ""
 			},
 			"11": {
-				"value": "",
-				"is_holiday": "true",
+				"value": "३१",
+				"is_holiday": "",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
 				"special_day": ""
 			},
 			"12": {
-				"value": "४",
+				"value": "३",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -1407,7 +1406,7 @@
 				"special_day": ""
 			},
 			"13": {
-				"value": "११",
+				"value": "१०",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -1415,7 +1414,7 @@
 				"special_day": ""
 			},
 			"14": {
-				"value": "१८",
+				"value": "१७",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -1423,7 +1422,7 @@
 				"special_day": ""
 			},
 			"15": {
-				"value": "२५",
+				"value": "२४",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -1447,7 +1446,7 @@
 				"special_day": ""
 			},
 			"22": {
-				"value": "५",
+				"value": "४",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1455,7 +1454,7 @@
 				"special_day": ""
 			},
 			"23": {
-				"value": "१२",
+				"value": "११",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1463,7 +1462,7 @@
 				"special_day": ""
 			},
 			"24": {
-				"value": "१९",
+				"value": "१८",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1471,7 +1470,7 @@
 				"special_day": ""
 			},
 			"25": {
-				"value": "२६",
+				"value": "२५",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1495,7 +1494,7 @@
 				"special_day": ""
 			},
 			"32": {
-				"value": "६",
+				"value": "५",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1503,7 +1502,7 @@
 				"special_day": ""
 			},
 			"33": {
-				"value": "१३",
+				"value": "१२",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1511,7 +1510,7 @@
 				"special_day": ""
 			},
 			"34": {
-				"value": "२०",
+				"value": "१९",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1519,7 +1518,7 @@
 				"special_day": ""
 			},
 			"35": {
-				"value": "२७",
+				"value": "२६",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1543,7 +1542,7 @@
 				"special_day": ""
 			},
 			"42": {
-				"value": "७",
+				"value": "६",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1551,7 +1550,7 @@
 				"special_day": ""
 			},
 			"43": {
-				"value": "१४",
+				"value": "१३",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1559,7 +1558,7 @@
 				"special_day": ""
 			},
 			"44": {
-				"value": "२१",
+				"value": "२०",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1567,7 +1566,7 @@
 				"special_day": ""
 			},
 			"45": {
-				"value": "२८",
+				"value": "२७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1583,7 +1582,7 @@
 				"special_day": ""
 			},
 			"51": {
-				"value": "१",
+				"value": "",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1591,7 +1590,7 @@
 				"special_day": ""
 			},
 			"52": {
-				"value": "८",
+				"value": "७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1599,7 +1598,7 @@
 				"special_day": ""
 			},
 			"53": {
-				"value": "१५",
+				"value": "१४",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1607,7 +1606,7 @@
 				"special_day": ""
 			},
 			"54": {
-				"value": "२२",
+				"value": "२१",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1615,7 +1614,7 @@
 				"special_day": ""
 			},
 			"55": {
-				"value": "२९",
+				"value": "२८",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1631,7 +1630,7 @@
 				"special_day": ""
 			},
 			"61": {
-				"value": "२",
+				"value": "१",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1639,7 +1638,7 @@
 				"special_day": ""
 			},
 			"62": {
-				"value": "९",
+				"value": "८",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1647,7 +1646,7 @@
 				"special_day": ""
 			},
 			"63": {
-				"value": "१६",
+				"value": "१५",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1655,7 +1654,7 @@
 				"special_day": ""
 			},
 			"64": {
-				"value": "२३",
+				"value": "२२",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1663,8 +1662,8 @@
 				"special_day": ""
 			},
 			"65": {
-				"value": "३०",
-				"is_holiday": "false",
+				"value": "२९",
+				"is_holiday": "",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
@@ -1679,7 +1678,7 @@
 				"special_day": ""
 			},
 			"71": {
-				"value": "३",
+				"value": "२",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1687,7 +1686,7 @@
 				"special_day": ""
 			},
 			"72": {
-				"value": "१०",
+				"value": "९",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1695,7 +1694,7 @@
 				"special_day": ""
 			},
 			"73": {
-				"value": "१७",
+				"value": "१६",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1703,7 +1702,7 @@
 				"special_day": ""
 			},
 			"74": {
-				"value": "२४",
+				"value": "२३",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1711,8 +1710,8 @@
 				"special_day": ""
 			},
 			"75": {
-				"value": "३१",
-				"is_holiday": "false",
+				"value": "३०",
+				"is_holiday": "",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
@@ -1730,7 +1729,7 @@
 				"special_day": ""
 			},
 			"11": {
-				"value": "१",
+				"value": "",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -1738,7 +1737,7 @@
 				"special_day": ""
 			},
 			"12": {
-				"value": "८",
+				"value": "७",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -1746,7 +1745,7 @@
 				"special_day": ""
 			},
 			"13": {
-				"value": "१५",
+				"value": "१४",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -1754,7 +1753,7 @@
 				"special_day": ""
 			},
 			"14": {
-				"value": "२२",
+				"value": "२१",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -1762,7 +1761,7 @@
 				"special_day": ""
 			},
 			"15": {
-				"value": "२९",
+				"value": "२८",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -1778,7 +1777,7 @@
 				"special_day": ""
 			},
 			"21": {
-				"value": "२",
+				"value": "१",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1786,7 +1785,7 @@
 				"special_day": ""
 			},
 			"22": {
-				"value": "९",
+				"value": "८",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1794,7 +1793,7 @@
 				"special_day": ""
 			},
 			"23": {
-				"value": "१६",
+				"value": "१५",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1802,7 +1801,7 @@
 				"special_day": ""
 			},
 			"24": {
-				"value": "२३",
+				"value": "२२",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1810,7 +1809,7 @@
 				"special_day": ""
 			},
 			"25": {
-				"value": "३०",
+				"value": "२९",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1826,7 +1825,7 @@
 				"special_day": ""
 			},
 			"31": {
-				"value": "३",
+				"value": "२",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1834,7 +1833,7 @@
 				"special_day": ""
 			},
 			"32": {
-				"value": "१०",
+				"value": "९",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1842,7 +1841,7 @@
 				"special_day": ""
 			},
 			"33": {
-				"value": "१७",
+				"value": "१६",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1850,7 +1849,7 @@
 				"special_day": ""
 			},
 			"34": {
-				"value": "२४",
+				"value": "२३",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1858,8 +1857,8 @@
 				"special_day": ""
 			},
 			"35": {
-				"value": "",
-				"is_holiday": "",
+				"value": "३०",
+				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
@@ -1874,7 +1873,7 @@
 				"special_day": ""
 			},
 			"41": {
-				"value": "४",
+				"value": "३",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1882,7 +1881,7 @@
 				"special_day": ""
 			},
 			"42": {
-				"value": "११",
+				"value": "१०",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1890,7 +1889,7 @@
 				"special_day": ""
 			},
 			"43": {
-				"value": "१८",
+				"value": "१७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1898,7 +1897,7 @@
 				"special_day": ""
 			},
 			"44": {
-				"value": "२५",
+				"value": "२४",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1922,7 +1921,7 @@
 				"special_day": ""
 			},
 			"51": {
-				"value": "५",
+				"value": "४",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1930,7 +1929,7 @@
 				"special_day": ""
 			},
 			"52": {
-				"value": "१२",
+				"value": "११",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1938,7 +1937,7 @@
 				"special_day": ""
 			},
 			"53": {
-				"value": "१९",
+				"value": "१८",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1946,7 +1945,7 @@
 				"special_day": ""
 			},
 			"54": {
-				"value": "२६",
+				"value": "२५",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1970,7 +1969,7 @@
 				"special_day": ""
 			},
 			"61": {
-				"value": "६",
+				"value": "५",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1978,7 +1977,7 @@
 				"special_day": ""
 			},
 			"62": {
-				"value": "१३",
+				"value": "१२",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1986,7 +1985,7 @@
 				"special_day": ""
 			},
 			"63": {
-				"value": "२०",
+				"value": "१९",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -1994,7 +1993,7 @@
 				"special_day": ""
 			},
 			"64": {
-				"value": "२७",
+				"value": "२६",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2018,7 +2017,7 @@
 				"special_day": ""
 			},
 			"71": {
-				"value": "७",
+				"value": "६",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2026,7 +2025,7 @@
 				"special_day": ""
 			},
 			"72": {
-				"value": "१४",
+				"value": "१३",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2034,7 +2033,7 @@
 				"special_day": ""
 			},
 			"73": {
-				"value": "२१",
+				"value": "२०",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2042,7 +2041,7 @@
 				"special_day": ""
 			},
 			"74": {
-				"value": "२८",
+				"value": "२७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2070,14 +2069,14 @@
 			},
 			"11": {
 				"value": "",
-				"is_holiday": "",
+				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
 				"special_day": ""
 			},
 			"12": {
-				"value": "६",
+				"value": "५",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -2085,7 +2084,7 @@
 				"special_day": ""
 			},
 			"13": {
-				"value": "१३",
+				"value": "१२",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -2093,7 +2092,7 @@
 				"special_day": ""
 			},
 			"14": {
-				"value": "२०",
+				"value": "१९",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -2101,7 +2100,7 @@
 				"special_day": ""
 			},
 			"15": {
-				"value": "२७",
+				"value": "२६",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -2118,14 +2117,14 @@
 			},
 			"21": {
 				"value": "",
-				"is_holiday": "",
+				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
 				"special_day": ""
 			},
 			"22": {
-				"value": "७",
+				"value": "६",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2133,7 +2132,7 @@
 				"special_day": ""
 			},
 			"23": {
-				"value": "१४",
+				"value": "१३",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2141,7 +2140,7 @@
 				"special_day": ""
 			},
 			"24": {
-				"value": "२१",
+				"value": "२०",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2149,7 +2148,7 @@
 				"special_day": ""
 			},
 			"25": {
-				"value": "२८",
+				"value": "२७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2165,7 +2164,7 @@
 				"special_day": ""
 			},
 			"31": {
-				"value": "१",
+				"value": "",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2173,7 +2172,7 @@
 				"special_day": ""
 			},
 			"32": {
-				"value": "८",
+				"value": "७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2181,7 +2180,7 @@
 				"special_day": ""
 			},
 			"33": {
-				"value": "१५",
+				"value": "१४",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2189,7 +2188,7 @@
 				"special_day": ""
 			},
 			"34": {
-				"value": "२२",
+				"value": "२१",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2197,7 +2196,7 @@
 				"special_day": ""
 			},
 			"35": {
-				"value": "२९",
+				"value": "२८",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2206,14 +2205,14 @@
 			},
 			"40": {
 				"value": "",
-				"is_holiday": "",
+				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
 				"special_day": ""
 			},
 			"41": {
-				"value": "२",
+				"value": "१",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2221,7 +2220,7 @@
 				"special_day": ""
 			},
 			"42": {
-				"value": "९",
+				"value": "८",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2229,7 +2228,7 @@
 				"special_day": ""
 			},
 			"43": {
-				"value": "१६",
+				"value": "१५",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2237,7 +2236,7 @@
 				"special_day": ""
 			},
 			"44": {
-				"value": "२३",
+				"value": "२२",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2245,7 +2244,7 @@
 				"special_day": ""
 			},
 			"45": {
-				"value": "३०",
+				"value": "२९",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2254,14 +2253,14 @@
 			},
 			"50": {
 				"value": "",
-				"is_holiday": "",
+				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
 				"special_day": ""
 			},
 			"51": {
-				"value": "३",
+				"value": "२",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2269,7 +2268,7 @@
 				"special_day": ""
 			},
 			"52": {
-				"value": "१०",
+				"value": "९",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2277,7 +2276,7 @@
 				"special_day": ""
 			},
 			"53": {
-				"value": "१७",
+				"value": "१६",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2285,7 +2284,7 @@
 				"special_day": ""
 			},
 			"54": {
-				"value": "२४",
+				"value": "२३",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2293,7 +2292,7 @@
 				"special_day": ""
 			},
 			"55": {
-				"value": "३१",
+				"value": "३०",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2309,7 +2308,7 @@
 				"special_day": ""
 			},
 			"61": {
-				"value": "४",
+				"value": "३",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2317,7 +2316,7 @@
 				"special_day": ""
 			},
 			"62": {
-				"value": "११",
+				"value": "१०",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2325,7 +2324,7 @@
 				"special_day": ""
 			},
 			"63": {
-				"value": "१८",
+				"value": "१७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2333,7 +2332,7 @@
 				"special_day": ""
 			},
 			"64": {
-				"value": "२५",
+				"value": "२४",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2341,8 +2340,8 @@
 				"special_day": ""
 			},
 			"65": {
-				"value": "",
-				"is_holiday": "",
+				"value": "३१",
+				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
@@ -2357,7 +2356,7 @@
 				"special_day": ""
 			},
 			"71": {
-				"value": "५",
+				"value": "४",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2365,7 +2364,7 @@
 				"special_day": ""
 			},
 			"72": {
-				"value": "१२",
+				"value": "११",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2373,7 +2372,7 @@
 				"special_day": ""
 			},
 			"73": {
-				"value": "१९",
+				"value": "१८",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2381,7 +2380,7 @@
 				"special_day": ""
 			},
 			"74": {
-				"value": "२६",
+				"value": "२५",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2390,7 +2389,7 @@
 			},
 			"75": {
 				"value": "",
-				"is_holiday": "",
+				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
@@ -2408,15 +2407,15 @@
 				"special_day": ""
 			},
 			"11": {
-				"value": "३१",
-				"is_holiday": "",
+				"value": "३०",
+				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
 				"special_day": ""
 			},
 			"12": {
-				"value": "३",
+				"value": "२",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -2424,7 +2423,7 @@
 				"special_day": ""
 			},
 			"13": {
-				"value": "१०",
+				"value": "९",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -2432,7 +2431,7 @@
 				"special_day": ""
 			},
 			"14": {
-				"value": "१७",
+				"value": "१६",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -2440,7 +2439,7 @@
 				"special_day": ""
 			},
 			"15": {
-				"value": "२४",
+				"value": "२३",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -2456,7 +2455,7 @@
 				"special_day": ""
 			},
 			"21": {
-				"value": "",
+				"value": "३१",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2464,7 +2463,7 @@
 				"special_day": ""
 			},
 			"22": {
-				"value": "४",
+				"value": "३",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2472,7 +2471,7 @@
 				"special_day": ""
 			},
 			"23": {
-				"value": "११",
+				"value": "१०",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2480,7 +2479,7 @@
 				"special_day": ""
 			},
 			"24": {
-				"value": "१८",
+				"value": "१७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2488,7 +2487,7 @@
 				"special_day": ""
 			},
 			"25": {
-				"value": "२५",
+				"value": "२४",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2512,7 +2511,7 @@
 				"special_day": ""
 			},
 			"32": {
-				"value": "५",
+				"value": "४",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2520,7 +2519,7 @@
 				"special_day": ""
 			},
 			"33": {
-				"value": "१२",
+				"value": "११",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2528,7 +2527,7 @@
 				"special_day": ""
 			},
 			"34": {
-				"value": "१९",
+				"value": "१८",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2536,7 +2535,7 @@
 				"special_day": ""
 			},
 			"35": {
-				"value": "२६",
+				"value": "२५",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2560,7 +2559,7 @@
 				"special_day": ""
 			},
 			"42": {
-				"value": "६",
+				"value": "५",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2568,7 +2567,7 @@
 				"special_day": ""
 			},
 			"43": {
-				"value": "१३",
+				"value": "१२",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2576,7 +2575,7 @@
 				"special_day": ""
 			},
 			"44": {
-				"value": "२०",
+				"value": "१९",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2584,7 +2583,7 @@
 				"special_day": ""
 			},
 			"45": {
-				"value": "२७",
+				"value": "२६",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2608,7 +2607,7 @@
 				"special_day": ""
 			},
 			"52": {
-				"value": "७",
+				"value": "६",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2616,7 +2615,7 @@
 				"special_day": ""
 			},
 			"53": {
-				"value": "१४",
+				"value": "१३",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2624,7 +2623,7 @@
 				"special_day": ""
 			},
 			"54": {
-				"value": "२१",
+				"value": "२०",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2632,7 +2631,7 @@
 				"special_day": ""
 			},
 			"55": {
-				"value": "२८",
+				"value": "२७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2648,7 +2647,7 @@
 				"special_day": ""
 			},
 			"61": {
-				"value": "१",
+				"value": "",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2656,7 +2655,7 @@
 				"special_day": ""
 			},
 			"62": {
-				"value": "८",
+				"value": "७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2664,7 +2663,7 @@
 				"special_day": ""
 			},
 			"63": {
-				"value": "१५",
+				"value": "१४",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2672,7 +2671,7 @@
 				"special_day": ""
 			},
 			"64": {
-				"value": "२२",
+				"value": "२१",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2680,8 +2679,8 @@
 				"special_day": ""
 			},
 			"65": {
-				"value": "२९",
-				"is_holiday": "",
+				"value": "२८",
+				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
@@ -2696,7 +2695,7 @@
 				"special_day": ""
 			},
 			"71": {
-				"value": "२",
+				"value": "१",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2704,7 +2703,7 @@
 				"special_day": ""
 			},
 			"72": {
-				"value": "९",
+				"value": "८",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2712,7 +2711,7 @@
 				"special_day": ""
 			},
 			"73": {
-				"value": "१६",
+				"value": "१५",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2720,7 +2719,7 @@
 				"special_day": ""
 			},
 			"74": {
-				"value": "२३",
+				"value": "२२",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2728,8 +2727,8 @@
 				"special_day": ""
 			},
 			"75": {
-				"value": "३०",
-				"is_holiday": "",
+				"value": "२९",
+				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
@@ -2748,14 +2747,14 @@
 			},
 			"11": {
 				"value": "",
-				"is_holiday": "true",
+				"is_holiday": "",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
 				"special_day": ""
 			},
 			"12": {
-				"value": "७",
+				"value": "६",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -2763,7 +2762,7 @@
 				"special_day": ""
 			},
 			"13": {
-				"value": "१४",
+				"value": "१३",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -2771,7 +2770,7 @@
 				"special_day": ""
 			},
 			"14": {
-				"value": "२१",
+				"value": "२०",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -2779,7 +2778,7 @@
 				"special_day": ""
 			},
 			"15": {
-				"value": "२८",
+				"value": "२७",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -2795,15 +2794,15 @@
 				"special_day": ""
 			},
 			"21": {
-				"value": "१",
-				"is_holiday": "false",
+				"value": "",
+				"is_holiday": "",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
 				"special_day": ""
 			},
 			"22": {
-				"value": "८",
+				"value": "७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2811,7 +2810,7 @@
 				"special_day": ""
 			},
 			"23": {
-				"value": "१५",
+				"value": "१४",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2819,7 +2818,7 @@
 				"special_day": ""
 			},
 			"24": {
-				"value": "२२",
+				"value": "२१",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2827,7 +2826,7 @@
 				"special_day": ""
 			},
 			"25": {
-				"value": "२९",
+				"value": "२८",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2843,7 +2842,7 @@
 				"special_day": ""
 			},
 			"31": {
-				"value": "२",
+				"value": "१",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2851,7 +2850,7 @@
 				"special_day": ""
 			},
 			"32": {
-				"value": "९",
+				"value": "८",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2859,7 +2858,7 @@
 				"special_day": ""
 			},
 			"33": {
-				"value": "१६",
+				"value": "१५",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2867,7 +2866,7 @@
 				"special_day": ""
 			},
 			"34": {
-				"value": "२३",
+				"value": "२२",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2875,7 +2874,7 @@
 				"special_day": ""
 			},
 			"35": {
-				"value": "३०",
+				"value": "२९",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2884,14 +2883,14 @@
 			},
 			"40": {
 				"value": "",
-				"is_holiday": "false",
+				"is_holiday": "",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
 				"special_day": ""
 			},
 			"41": {
-				"value": "३",
+				"value": "२",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2899,7 +2898,7 @@
 				"special_day": ""
 			},
 			"42": {
-				"value": "१०",
+				"value": "९",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2907,7 +2906,7 @@
 				"special_day": ""
 			},
 			"43": {
-				"value": "१७",
+				"value": "१६",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2915,7 +2914,7 @@
 				"special_day": ""
 			},
 			"44": {
-				"value": "२४",
+				"value": "२३",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2923,8 +2922,8 @@
 				"special_day": ""
 			},
 			"45": {
-				"value": "",
-				"is_holiday": "",
+				"value": "३०",
+				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
@@ -2932,14 +2931,14 @@
 			},
 			"50": {
 				"value": "",
-				"is_holiday": "false",
+				"is_holiday": "",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
 				"special_day": ""
 			},
 			"51": {
-				"value": "४",
+				"value": "३",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2947,7 +2946,7 @@
 				"special_day": ""
 			},
 			"52": {
-				"value": "११",
+				"value": "१०",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2955,7 +2954,7 @@
 				"special_day": ""
 			},
 			"53": {
-				"value": "१८",
+				"value": "१७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2963,7 +2962,7 @@
 				"special_day": ""
 			},
 			"54": {
-				"value": "२५",
+				"value": "२४",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2987,7 +2986,7 @@
 				"special_day": ""
 			},
 			"61": {
-				"value": "५",
+				"value": "४",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -2995,7 +2994,7 @@
 				"special_day": ""
 			},
 			"62": {
-				"value": "१२",
+				"value": "११",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3003,7 +3002,7 @@
 				"special_day": ""
 			},
 			"63": {
-				"value": "१९",
+				"value": "१८",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3011,7 +3010,7 @@
 				"special_day": ""
 			},
 			"64": {
-				"value": "२६",
+				"value": "२५",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3020,7 +3019,7 @@
 			},
 			"65": {
 				"value": "",
-				"is_holiday": "false",
+				"is_holiday": "",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
@@ -3035,7 +3034,7 @@
 				"special_day": ""
 			},
 			"71": {
-				"value": "६",
+				"value": "५",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3043,7 +3042,7 @@
 				"special_day": ""
 			},
 			"72": {
-				"value": "१३",
+				"value": "१२",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3051,7 +3050,7 @@
 				"special_day": ""
 			},
 			"73": {
-				"value": "२०",
+				"value": "१९",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3059,7 +3058,7 @@
 				"special_day": ""
 			},
 			"74": {
-				"value": "२७",
+				"value": "२६",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3068,7 +3067,7 @@
 			},
 			"75": {
 				"value": "",
-				"is_holiday": "false",
+				"is_holiday": "",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
@@ -3094,7 +3093,7 @@
 				"special_day": ""
 			},
 			"12": {
-				"value": "५",
+				"value": "४",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -3102,7 +3101,7 @@
 				"special_day": ""
 			},
 			"13": {
-				"value": "१२",
+				"value": "११",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -3110,7 +3109,7 @@
 				"special_day": ""
 			},
 			"14": {
-				"value": "१९",
+				"value": "१८",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -3118,7 +3117,7 @@
 				"special_day": ""
 			},
 			"15": {
-				"value": "२६",
+				"value": "२५",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -3142,7 +3141,7 @@
 				"special_day": ""
 			},
 			"22": {
-				"value": "६",
+				"value": "५",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3150,7 +3149,7 @@
 				"special_day": ""
 			},
 			"23": {
-				"value": "१३",
+				"value": "१२",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3158,7 +3157,7 @@
 				"special_day": ""
 			},
 			"24": {
-				"value": "२०",
+				"value": "१९",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3166,7 +3165,7 @@
 				"special_day": ""
 			},
 			"25": {
-				"value": "२७",
+				"value": "२६",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3190,7 +3189,7 @@
 				"special_day": ""
 			},
 			"32": {
-				"value": "७",
+				"value": "६",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3198,7 +3197,7 @@
 				"special_day": ""
 			},
 			"33": {
-				"value": "१४",
+				"value": "१३",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3206,7 +3205,7 @@
 				"special_day": ""
 			},
 			"34": {
-				"value": "२१",
+				"value": "२०",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3214,7 +3213,7 @@
 				"special_day": ""
 			},
 			"35": {
-				"value": "२८",
+				"value": "२७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3230,7 +3229,7 @@
 				"special_day": ""
 			},
 			"41": {
-				"value": "१",
+				"value": "",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3238,7 +3237,7 @@
 				"special_day": ""
 			},
 			"42": {
-				"value": "८",
+				"value": "७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3246,7 +3245,7 @@
 				"special_day": ""
 			},
 			"43": {
-				"value": "१५",
+				"value": "१४",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3254,7 +3253,7 @@
 				"special_day": ""
 			},
 			"44": {
-				"value": "२२",
+				"value": "२१",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3262,7 +3261,7 @@
 				"special_day": ""
 			},
 			"45": {
-				"value": "२९",
+				"value": "२८",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3278,7 +3277,7 @@
 				"special_day": ""
 			},
 			"51": {
-				"value": "२",
+				"value": "१",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3286,7 +3285,7 @@
 				"special_day": ""
 			},
 			"52": {
-				"value": "९",
+				"value": "८",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3294,7 +3293,7 @@
 				"special_day": ""
 			},
 			"53": {
-				"value": "१६",
+				"value": "१५",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3302,7 +3301,7 @@
 				"special_day": ""
 			},
 			"54": {
-				"value": "२३",
+				"value": "२२",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3310,7 +3309,7 @@
 				"special_day": ""
 			},
 			"55": {
-				"value": "३०",
+				"value": "२९",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3326,7 +3325,7 @@
 				"special_day": ""
 			},
 			"61": {
-				"value": "३",
+				"value": "२",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3334,7 +3333,7 @@
 				"special_day": ""
 			},
 			"62": {
-				"value": "१०",
+				"value": "९",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3342,7 +3341,7 @@
 				"special_day": ""
 			},
 			"63": {
-				"value": "१७",
+				"value": "१६",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3350,7 +3349,7 @@
 				"special_day": ""
 			},
 			"64": {
-				"value": "२४",
+				"value": "२३",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3358,7 +3357,7 @@
 				"special_day": ""
 			},
 			"65": {
-				"value": "३१",
+				"value": "३०",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3374,7 +3373,7 @@
 				"special_day": ""
 			},
 			"71": {
-				"value": "४",
+				"value": "३",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3382,7 +3381,7 @@
 				"special_day": ""
 			},
 			"72": {
-				"value": "११",
+				"value": "१०",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3390,7 +3389,7 @@
 				"special_day": ""
 			},
 			"73": {
-				"value": "१८",
+				"value": "१७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3398,7 +3397,7 @@
 				"special_day": ""
 			},
 			"74": {
-				"value": "२५",
+				"value": "२४",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3406,7 +3405,7 @@
 				"special_day": ""
 			},
 			"75": {
-				"value": "",
+				"value": "३१",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3425,7 +3424,7 @@
 				"special_day": ""
 			},
 			"11": {
-				"value": "३०",
+				"value": "१",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -3433,7 +3432,7 @@
 				"special_day": ""
 			},
 			"12": {
-				"value": "२",
+				"value": "८",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -3441,7 +3440,7 @@
 				"special_day": ""
 			},
 			"13": {
-				"value": "९",
+				"value": "१५",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -3449,7 +3448,7 @@
 				"special_day": ""
 			},
 			"14": {
-				"value": "१६",
+				"value": "२२",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -3457,7 +3456,7 @@
 				"special_day": ""
 			},
 			"15": {
-				"value": "२३",
+				"value": "२९",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -3473,15 +3472,15 @@
 				"special_day": ""
 			},
 			"21": {
-				"value": "",
-				"is_holiday": "",
+				"value": "२",
+				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
 				"special_day": ""
 			},
 			"22": {
-				"value": "३",
+				"value": "९",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3489,7 +3488,7 @@
 				"special_day": ""
 			},
 			"23": {
-				"value": "१०",
+				"value": "१६",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3497,7 +3496,7 @@
 				"special_day": ""
 			},
 			"24": {
-				"value": "१७",
+				"value": "२३",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3505,7 +3504,7 @@
 				"special_day": ""
 			},
 			"25": {
-				"value": "२४",
+				"value": "३०",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3521,7 +3520,7 @@
 				"special_day": ""
 			},
 			"31": {
-				"value": "",
+				"value": "३",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3529,7 +3528,7 @@
 				"special_day": ""
 			},
 			"32": {
-				"value": "४",
+				"value": "१०",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3537,7 +3536,7 @@
 				"special_day": ""
 			},
 			"33": {
-				"value": "११",
+				"value": "१७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3545,7 +3544,7 @@
 				"special_day": ""
 			},
 			"34": {
-				"value": "१८",
+				"value": "२४",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3553,7 +3552,7 @@
 				"special_day": ""
 			},
 			"35": {
-				"value": "२५",
+				"value": "",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3569,7 +3568,7 @@
 				"special_day": ""
 			},
 			"41": {
-				"value": "",
+				"value": "४",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3577,7 +3576,7 @@
 				"special_day": ""
 			},
 			"42": {
-				"value": "५",
+				"value": "११",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3585,7 +3584,7 @@
 				"special_day": ""
 			},
 			"43": {
-				"value": "१२",
+				"value": "१८",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3593,7 +3592,7 @@
 				"special_day": ""
 			},
 			"44": {
-				"value": "१९",
+				"value": "२५",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3601,7 +3600,7 @@
 				"special_day": ""
 			},
 			"45": {
-				"value": "२६",
+				"value": "",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3617,7 +3616,7 @@
 				"special_day": ""
 			},
 			"51": {
-				"value": "",
+				"value": "५",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3625,7 +3624,7 @@
 				"special_day": ""
 			},
 			"52": {
-				"value": "६",
+				"value": "१२",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3633,7 +3632,7 @@
 				"special_day": ""
 			},
 			"53": {
-				"value": "१३",
+				"value": "१९",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3641,7 +3640,7 @@
 				"special_day": ""
 			},
 			"54": {
-				"value": "२०",
+				"value": "२६",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3649,7 +3648,7 @@
 				"special_day": ""
 			},
 			"55": {
-				"value": "२७",
+				"value": "",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3665,7 +3664,7 @@
 				"special_day": ""
 			},
 			"61": {
-				"value": "",
+				"value": "६",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3673,7 +3672,7 @@
 				"special_day": ""
 			},
 			"62": {
-				"value": "७",
+				"value": "१३",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3681,7 +3680,7 @@
 				"special_day": ""
 			},
 			"63": {
-				"value": "१४",
+				"value": "२०",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3689,7 +3688,7 @@
 				"special_day": ""
 			},
 			"64": {
-				"value": "२१",
+				"value": "२७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3697,7 +3696,7 @@
 				"special_day": ""
 			},
 			"65": {
-				"value": "२८",
+				"value": "",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3713,7 +3712,7 @@
 				"special_day": ""
 			},
 			"71": {
-				"value": "१",
+				"value": "७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3721,7 +3720,7 @@
 				"special_day": ""
 			},
 			"72": {
-				"value": "८",
+				"value": "१४",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3729,7 +3728,7 @@
 				"special_day": ""
 			},
 			"73": {
-				"value": "१५",
+				"value": "२१",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3737,7 +3736,7 @@
 				"special_day": ""
 			},
 			"74": {
-				"value": "२२",
+				"value": "२८",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3745,7 +3744,7 @@
 				"special_day": ""
 			},
 			"75": {
-				"value": "२९",
+				"value": "",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3765,14 +3764,14 @@
 			},
 			"11": {
 				"value": "",
-				"is_holiday": "true",
+				"is_holiday": "",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
 				"special_day": ""
 			},
 			"12": {
-				"value": "७",
+				"value": "६",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -3780,7 +3779,7 @@
 				"special_day": ""
 			},
 			"13": {
-				"value": "१४",
+				"value": "१३",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -3788,7 +3787,7 @@
 				"special_day": ""
 			},
 			"14": {
-				"value": "२१",
+				"value": "२०",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -3796,7 +3795,7 @@
 				"special_day": ""
 			},
 			"15": {
-				"value": "२८",
+				"value": "२७",
 				"is_holiday": "true",
 				"is_festival": "false",
 				"festivals": "",
@@ -3812,15 +3811,15 @@
 				"special_day": ""
 			},
 			"21": {
-				"value": "१",
-				"is_holiday": "false",
+				"value": "",
+				"is_holiday": "",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
 				"special_day": ""
 			},
 			"22": {
-				"value": "८",
+				"value": "७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3828,7 +3827,7 @@
 				"special_day": ""
 			},
 			"23": {
-				"value": "१५",
+				"value": "१४",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3836,7 +3835,7 @@
 				"special_day": ""
 			},
 			"24": {
-				"value": "२२",
+				"value": "२१",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3844,7 +3843,7 @@
 				"special_day": ""
 			},
 			"25": {
-				"value": "२९",
+				"value": "२८",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3860,7 +3859,7 @@
 				"special_day": ""
 			},
 			"31": {
-				"value": "२",
+				"value": "१",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3868,7 +3867,7 @@
 				"special_day": ""
 			},
 			"32": {
-				"value": "९",
+				"value": "८",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3876,7 +3875,7 @@
 				"special_day": ""
 			},
 			"33": {
-				"value": "१६",
+				"value": "१५",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3884,7 +3883,7 @@
 				"special_day": ""
 			},
 			"34": {
-				"value": "२३",
+				"value": "२२",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3892,7 +3891,7 @@
 				"special_day": ""
 			},
 			"35": {
-				"value": "३०",
+				"value": "२९",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3901,14 +3900,14 @@
 			},
 			"40": {
 				"value": "",
-				"is_holiday": "false",
+				"is_holiday": "",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
 				"special_day": ""
 			},
 			"41": {
-				"value": "३",
+				"value": "२",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3916,7 +3915,7 @@
 				"special_day": ""
 			},
 			"42": {
-				"value": "१०",
+				"value": "९",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3924,7 +3923,7 @@
 				"special_day": ""
 			},
 			"43": {
-				"value": "१७",
+				"value": "१६",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3932,7 +3931,7 @@
 				"special_day": ""
 			},
 			"44": {
-				"value": "२४",
+				"value": "२३",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3940,7 +3939,7 @@
 				"special_day": ""
 			},
 			"45": {
-				"value": "३१",
+				"value": "३०",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3949,14 +3948,14 @@
 			},
 			"50": {
 				"value": "",
-				"is_holiday": "false",
+				"is_holiday": "",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
 				"special_day": ""
 			},
 			"51": {
-				"value": "४",
+				"value": "३",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3964,7 +3963,7 @@
 				"special_day": ""
 			},
 			"52": {
-				"value": "११",
+				"value": "१०",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3972,7 +3971,7 @@
 				"special_day": ""
 			},
 			"53": {
-				"value": "१८",
+				"value": "१७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3980,7 +3979,7 @@
 				"special_day": ""
 			},
 			"54": {
-				"value": "२५",
+				"value": "२४",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -3988,7 +3987,7 @@
 				"special_day": ""
 			},
 			"55": {
-				"value": "",
+				"value": "३१",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -4004,7 +4003,7 @@
 				"special_day": ""
 			},
 			"61": {
-				"value": "५",
+				"value": "४",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -4012,7 +4011,7 @@
 				"special_day": ""
 			},
 			"62": {
-				"value": "१२",
+				"value": "११",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -4020,7 +4019,7 @@
 				"special_day": ""
 			},
 			"63": {
-				"value": "१९",
+				"value": "१८",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -4028,7 +4027,7 @@
 				"special_day": ""
 			},
 			"64": {
-				"value": "२६",
+				"value": "२५",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -4037,7 +4036,7 @@
 			},
 			"65": {
 				"value": "",
-				"is_holiday": "false",
+				"is_holiday": "",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
@@ -4052,7 +4051,7 @@
 				"special_day": ""
 			},
 			"71": {
-				"value": "६",
+				"value": "५",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -4060,7 +4059,7 @@
 				"special_day": ""
 			},
 			"72": {
-				"value": "१३",
+				"value": "१२",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -4068,7 +4067,7 @@
 				"special_day": ""
 			},
 			"73": {
-				"value": "२०",
+				"value": "१९",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -4076,7 +4075,7 @@
 				"special_day": ""
 			},
 			"74": {
-				"value": "२७",
+				"value": "२६",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
@@ -4085,7 +4084,7 @@
 			},
 			"75": {
 				"value": "",
-				"is_holiday": "false",
+				"is_holiday": "",
 				"is_festival": "false",
 				"festivals": "",
 				"is_amavasya_pornima": "false",
@@ -4093,6 +4092,4 @@
 			}
 		}
 	]
-
-
 }
