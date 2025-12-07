@@ -115,11 +115,11 @@
 			},
 			"25": {
 				"value": "२६",
-				"is_holiday": "false",
+				"is_holiday": "true",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "गणराज्य दिन",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "गणराज्य दिन"
 			},
 			"30": {
 				"value": "",
@@ -197,9 +197,9 @@
 				"value": "१४",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
-				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"festivals": "मकर संक्रांती",
+				"is_amavasya_pornima": "E",
+				"special_day": "मकर संक्रांती"
 			},
 			"44": {
 				"value": "२१",
@@ -213,9 +213,9 @@
 				"value": "२८",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "लाला लजपतराय जयंती",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "लाला लजपतराय जयंती"
 			},
 			"50": {
 				"value": "",
@@ -229,9 +229,9 @@
 				"value": "१",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "नूतन वर्षाभिनंदन",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "नूतन वर्षाभिनंदन"
 			},
 			"52": {
 				"value": "८",
@@ -253,16 +253,16 @@
 				"value": "२२",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "गणेश जयंती",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "गणेश जयंती"
 			},
 			"55": {
 				"value": "२९",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
-				"is_amavasya_pornima": "false",
+				"is_amavasya_pornima": "E",
 				"special_day": ""
 			},
 			"60": {
@@ -285,33 +285,33 @@
 				"value": "९",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "स्वामी विवेकानंद जयंती",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "स्वामी विवेकानंद जयंती"
 			},
 			"63": {
 				"value": "१६",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "धर्मवीर छत्रपती संभाजी महाराज राज्याभिषेक दिन",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "धर्मवीर छत्रपती संभाजी महाराज राज्याभिषेक दिन"
 			},
 			"64": {
 				"value": "२३",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "नेताजी शुभाचंद्र बोस जयंती,जगद्गुरू तुकाराम महाराज जयंती,हिंदुहृदयसम्राट बाळासाहेब ठाकरे जयंती",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "नेताजी शुभाचंद्र बोस जयंती,जगद्गुरू तुकाराम महाराज जयंती,हिंदुहृदयसम्राट बाळासाहेब ठाकरे जयंती"
 			},
 			"65": {
 				"value": "३०",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "महात्मा गांधी पुण्यतिथी,हुतात्मा दिन",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "महात्मा गांधी पुण्यतिथी,हुतात्मा दिन"
 			},
 			"70": {
 				"value": "",
@@ -325,41 +325,41 @@
 				"value": "३",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "राजमाता जिजाऊसाहेब भोसले जयंती(तिथीप्रमाणे), महिला मुक्तिदिन,सावित्रीबाई फुले जयंती",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "राजमाता जिजाऊसाहेब भोसले जयंती(तिथीप्रमाणे), महिला मुक्तिदिन,सावित्रीबाई फुले जयंती"
 			},
 			"72": {
 				"value": "१०",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "विश्व हिंदी दिन",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "विश्व हिंदी दिन"
 			},
 			"73": {
 				"value": "१७",
 				"is_holiday": "false",
 				"is_festival": "false",
 				"festivals": "",
-				"is_amavasya_pornima": "false",
+				"is_amavasya_pornima": "A",
 				"special_day": ""
 			},
 			"74": {
 				"value": "२४",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "राष्ट्रीय बालिका दिन",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "राष्ट्रीय बालिका दिन"
 			},
 			"75": {
 				"value": "३१",
 				"is_holiday": "false",
 				"is_festival": "false",
-				"festivals": "",
+				"festivals": "श्री विश्वकर्मा जयंती",
 				"is_amavasya_pornima": "false",
-				"special_day": ""
+				"special_day": "श्री विश्वकर्मा जयंती"
 			}
 		},
 		{
@@ -4093,3 +4093,4 @@
 		}
 	]
 }
+
