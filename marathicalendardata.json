@@ -1,26 +1,27 @@
 {
-	"current_year": "२०२५",
-	"current_year_int": 2025,
-	"pre_shake": "१९४६",
-	"post_shake": "१९४७",
+	"current_year": "२०२६",
+	"current_year_int": 2026,
+	"pre_shake": "१९४७",
+	"post_shake": "१९४८",
 	"is_leap_year": false,
-	"is_new-year-update-available": true,
+	"is_new-year-update-available": false,
 	"current_year_data_link": "https://bapukshinde.github.io/marathicalendardata.json",
-	"new_year_data_link": "https://bapukshinde.github.io/marathicalendardata2026.json",
+	"new_year_data_link": "https://bapukshinde.github.io/marathicalendardata.json",
 	"new_year": "२०२६",
 	"Shake": [
-		"पौष-माघ शके-१९४६",
-		"माघ-फाल्गुन शके-१९४६",
-		"फाल्गुन-चैत्र शके-१९४६-१९४७",
-		"चैत्र-वैशाख शके-१९४७",
-		"वैशाख-ज्येष्ठ शके-१९४७",
-		"ज्येष्ठ-आषाढ शके-१९४७",
-		"आषाढ-श्रावण शके-१९४७",
-		"श्रावण-भाद्रपद शके-१९४७",
-		"भाद्रपद-आश्विन शके-१९४७",
-		"आश्विन-कार्त्तिक शके-१९४७",
-		"कार्त्तिक-मार्गशीर्ष शके-१९४७",
-		"मार्गशीर्ष-पौष शके-१९४७"
+		"पौष-माघ शके-१९४७",
+		"माघ-फाल्गुन शके-१९४७",
+		"फाल्गुन-चैत्र शके-१९४७-१९४८",
+		"चैत्र-वैशाख शके-१९४८",
+		"वैशाख-ज्येष्ठ शके-१९४८",
+		"ज्येष्ठ-आषाढ शके-१९४८",
+		"ज्येष्ठ-आषाढ शके-१९४८",
+		"आषाढ-श्रावण शके-१९४८",
+		"श्रावण-भाद्रपद शके-१९४८",
+		"भाद्रपद-आश्विन शके-१९४८",
+		"आश्विन-कार्त्तिक शके-१९४८",
+		"कार्त्तिक-मार्गशीर्ष शके-१९४८"
+		
 	],
 	"Data": [
 		{
@@ -4092,5 +4093,6 @@
 			}
 		}
 	]
-}
 
+
+}
